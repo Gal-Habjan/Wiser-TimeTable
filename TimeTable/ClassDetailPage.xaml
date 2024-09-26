@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="TimeTable.ClassDetailPage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="ClassDetailPage">
+
+    <VerticalStackLayout>
+
+
+        <Label Text="{Binding CurrentClass.Opis}" />
+
+        <Label FontAttributes="Bold" Text="Room:" />
+        <Label Text="{Binding CurrentClass.Prostor}" />
+
+        <Label FontAttributes="Bold" Text="Instructor:" />
+        <Label Text="{Binding CurrentClass.Izvajalec}" />
+
+        <Label FontAttributes="Bold" Text="Day:" />
+        <Label Text="{Binding CurrentClass.Dan}" />
+
+        <Label FontAttributes="Bold" Text="Date:" />
+        <Label Text="{Binding CurrentClass.Datum}" />
+
+        <Label FontAttributes="Bold" Text="Time:" />
+        <Label Text="{Binding CurrentClass.Ura}" />
+        <!--  Close button to return to the previous page  -->
+        <Button Clicked="OnButtonClose" Text="Close" />
+    </VerticalStackLayout>
+</ContentPage>

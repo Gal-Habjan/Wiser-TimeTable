@@ -1,0 +1,2704 @@
+{
+    "Classes": [
+        {
+            "Dan": "Sreda",
+            "Datum": "02.10.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Opis": "PR SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "ALEŠ HOLOBAR"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "02.10.2024",
+            "Ura": "10:00-13:00",
+            "Prostor": "G2-P1 ALFA, pritličje",
+            "Opis": "PR LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN",
+            "Izvajalec": "TATJANA PETEK"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "02.10.2024",
+            "Ura": "12:00-14:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Opis": "PR VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DOMEN VERBER"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "02.10.2024",
+            "Ura": "14:00-17:00",
+            "Prostor": "A-301",
+            "Opis": "PR VERJETNOST",
+            "Skupina": "RIT 3 UN UP1, RIT 3 UN UP2",
+            "Izvajalec": "IZTOK PETERIN"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "02.10.2024",
+            "Ura": "17:00-20:00",
+            "Prostor": "A-301",
+            "Opis": "SV VERJETNOST",
+            "Skupina": "RIT 3 UN UP1, RIT 3 UN UP2",
+            "Izvajalec": "ALEKSANDER KELENC"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "03.10.2024",
+            "Ura": "15:00-18:00",
+            "Prostor": "(RU, LA) G-217",
+            "Opis": "LV VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "ERNEST GUNGL"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "03.10.2024",
+            "Ura": "18:00-21:00",
+            "Prostor": "(RU, LA) G-217",
+            "Opis": "LV VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "ERNEST GUNGL"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "04.10.2024",
+            "Ura": "08:00-10:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DAMJAN STRNAD"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "04.10.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR MULTIMEDIA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "04.10.2024",
+            "Ura": "12:00-15:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR VERJETNOST",
+            "Skupina": "RIT 3 UN UP1, RIT 3 UN UP2",
+            "Izvajalec": "IZTOK PETERIN"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "04.10.2024",
+            "Ura": "15:00-18:00",
+            "Prostor": "G2-P02, pritličje",
+            "Opis": "SV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "MARTIN ŠAVC"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "07.10.2024",
+            "Ura": "07:00-10:00",
+            "Prostor": "(RU) E-110",
+            "Opis": "SV MULTIMEDIA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DAVID JESENKO"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "07.10.2024",
+            "Ura": "14:00-17:00",
+            "Prostor": "G2-P1 ALFA, pritličje",
+            "Opis": "SV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "07.10.2024",
+            "Ura": "17:00-20:00",
+            "Prostor": "(RU) E-110",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 3",
+            "Izvajalec": "SEBASTIJAN ŠPRAGER"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "08.10.2024",
+            "Ura": "08:00-11:00",
+            "Prostor": "(RU) F-201",
+            "Opis": "RV RAZVOJ RAČUNALNIŠKIH IGER",
+            "Skupina": "RIT 3 UN Erasmus",
+            "Izvajalec": "MATEJ MORAVEC"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "08.10.2024",
+            "Ura": "09:00-12:00",
+            "Prostor": "(RU) F-104",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "08.10.2024",
+            "Ura": "09:00-10:00",
+            "Prostor": "E-105",
+            "Opis": "LV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 2. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "08.10.2024",
+            "Ura": "12:00-15:00",
+            "Prostor": "(RU) C-202",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "MARTIN ŠAVC"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "08.10.2024",
+            "Ura": "15:00-18:00",
+            "Prostor": "A-302",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 3",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "09.10.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Opis": "PR SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "ALEŠ HOLOBAR"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "09.10.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P1 ALFA, pritličje",
+            "Opis": "PR LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN",
+            "Izvajalec": "TATJANA PETEK"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "09.10.2024",
+            "Ura": "12:00-14:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Opis": "PR VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DOMEN VERBER"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "09.10.2024",
+            "Ura": "14:00-17:00",
+            "Prostor": "A-301",
+            "Opis": "SV VERJETNOST",
+            "Skupina": "RIT 3 UN UP1, RIT 3 UN UP2",
+            "Izvajalec": "ALEKSANDER KELENC"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "09.10.2024",
+            "Ura": "14:00-16:00",
+            "Prostor": "E-105",
+            "Opis": "LV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 1. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "09.10.2024",
+            "Ura": "17:00-20:00",
+            "Prostor": "(RU) G-219",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "MARTIN ŠAVC"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "10.10.2024",
+            "Ura": "12:00-15:00",
+            "Prostor": "(RU) C-202",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "10.10.2024",
+            "Ura": "15:00-18:00",
+            "Prostor": "(RU, LA) G-217",
+            "Opis": "LV VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "ERNEST GUNGL"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "10.10.2024",
+            "Ura": "18:00-21:00",
+            "Prostor": "(RU, LA) G-217",
+            "Opis": "LV VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "ERNEST GUNGL"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "11.10.2024",
+            "Ura": "08:00-10:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DAMJAN STRNAD"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "11.10.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR MULTIMEDIA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "11.10.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "A-301",
+            "Opis": "SV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 1. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "11.10.2024",
+            "Ura": "12:00-15:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR VERJETNOST",
+            "Skupina": "RIT 3 UN UP1, RIT 3 UN UP2",
+            "Izvajalec": "IZTOK PETERIN"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "11.10.2024",
+            "Ura": "12:00-14:00",
+            "Prostor": "A-301",
+            "Opis": "PR LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN",
+            "Izvajalec": "TATJANA PETEK"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "11.10.2024",
+            "Ura": "14:00-16:00",
+            "Prostor": "A-301",
+            "Opis": "SV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 2. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "14.10.2024",
+            "Ura": "07:00-10:00",
+            "Prostor": "(RU) E-110",
+            "Opis": "RV MULTIMEDIA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DAVID JESENKO"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "14.10.2024",
+            "Ura": "12:00-15:00",
+            "Prostor": "G2-P04, pritličje",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 3",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "14.10.2024",
+            "Ura": "17:00-20:00",
+            "Prostor": "(RU) E-110",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 3",
+            "Izvajalec": "SEBASTIJAN ŠPRAGER"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "15.10.2024",
+            "Ura": "08:00-11:00",
+            "Prostor": "(RU) F-201",
+            "Opis": "RV RAZVOJ RAČUNALNIŠKIH IGER",
+            "Skupina": "RIT 3 UN Erasmus",
+            "Izvajalec": "MATEJ MORAVEC"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "15.10.2024",
+            "Ura": "09:00-12:00",
+            "Prostor": "(RU) F-104",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "15.10.2024",
+            "Ura": "12:00-15:00",
+            "Prostor": "(RU) C-202",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "MARTIN ŠAVC"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "16.10.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Opis": "PR SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "ALEŠ HOLOBAR"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "16.10.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P1 ALFA, pritličje",
+            "Opis": "PR LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN",
+            "Izvajalec": "TATJANA PETEK"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "16.10.2024",
+            "Ura": "12:00-14:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Opis": "PR VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DOMEN VERBER"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "16.10.2024",
+            "Ura": "14:00-17:00",
+            "Prostor": "A-301",
+            "Opis": "SV VERJETNOST",
+            "Skupina": "RIT 3 UN UP1, RIT 3 UN UP2",
+            "Izvajalec": "ALEKSANDER KELENC"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "16.10.2024",
+            "Ura": "14:00-16:00",
+            "Prostor": "E-105",
+            "Opis": "LV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 2. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "16.10.2024",
+            "Ura": "17:00-20:00",
+            "Prostor": "(RU) G-219",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "MARTIN ŠAVC"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "17.10.2024",
+            "Ura": "12:00-15:00",
+            "Prostor": "(RU) C-202",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "17.10.2024",
+            "Ura": "15:00-18:00",
+            "Prostor": "(RU, LA) G-217",
+            "Opis": "LV VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "ERNEST GUNGL"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "17.10.2024",
+            "Ura": "18:00-21:00",
+            "Prostor": "(RU, LA) G-217",
+            "Opis": "LV VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "ERNEST GUNGL"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "18.10.2024",
+            "Ura": "08:00-10:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DAMJAN STRNAD"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "18.10.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR MULTIMEDIA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "18.10.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "A-301",
+            "Opis": "SV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 1. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "18.10.2024",
+            "Ura": "12:00-15:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR VERJETNOST",
+            "Skupina": "RIT 3 UN UP1, RIT 3 UN UP2",
+            "Izvajalec": "IZTOK PETERIN"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "18.10.2024",
+            "Ura": "12:00-14:00",
+            "Prostor": "A-301",
+            "Opis": "PR LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN",
+            "Izvajalec": "TATJANA PETEK"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "18.10.2024",
+            "Ura": "14:00-16:00",
+            "Prostor": "A-301",
+            "Opis": "SV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 2. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "21.10.2024",
+            "Ura": "07:00-10:00",
+            "Prostor": "(RU) E-110",
+            "Opis": "RV MULTIMEDIA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DAVID JESENKO"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "21.10.2024",
+            "Ura": "14:00-17:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 3",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "21.10.2024",
+            "Ura": "17:00-20:00",
+            "Prostor": "(RU) E-110",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 3",
+            "Izvajalec": "SEBASTIJAN ŠPRAGER"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "22.10.2024",
+            "Ura": "08:00-11:00",
+            "Prostor": "(RU) F-201",
+            "Opis": "RV RAZVOJ RAČUNALNIŠKIH IGER",
+            "Skupina": "RIT 3 UN Erasmus",
+            "Izvajalec": "MATEJ MORAVEC"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "22.10.2024",
+            "Ura": "09:00-12:00",
+            "Prostor": "(RU) F-104",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "22.10.2024",
+            "Ura": "12:00-15:00",
+            "Prostor": "(RU) C-202",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "MARTIN ŠAVC"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "23.10.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Opis": "PR SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "ALEŠ HOLOBAR"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "23.10.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P1 ALFA, pritličje",
+            "Opis": "PR LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN",
+            "Izvajalec": "TATJANA PETEK"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "23.10.2024",
+            "Ura": "12:00-14:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Opis": "PR VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DOMEN VERBER"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "23.10.2024",
+            "Ura": "14:00-17:00",
+            "Prostor": "A-301",
+            "Opis": "SV VERJETNOST",
+            "Skupina": "RIT 3 UN UP1, RIT 3 UN UP2",
+            "Izvajalec": "ALEKSANDER KELENC"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "23.10.2024",
+            "Ura": "14:00-16:00",
+            "Prostor": "E-105",
+            "Opis": "LV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 1. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "23.10.2024",
+            "Ura": "17:00-20:00",
+            "Prostor": "(RU) G-219",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "MARTIN ŠAVC"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "24.10.2024",
+            "Ura": "12:00-15:00",
+            "Prostor": "(RU) C-202",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "24.10.2024",
+            "Ura": "15:00-18:00",
+            "Prostor": "(RU, LA) G-217",
+            "Opis": "LV VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "ERNEST GUNGL"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "24.10.2024",
+            "Ura": "18:00-21:00",
+            "Prostor": "(RU, LA) G-217",
+            "Opis": "LV VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "ERNEST GUNGL"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "25.10.2024",
+            "Ura": "08:00-10:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DAMJAN STRNAD"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "25.10.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR MULTIMEDIA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "25.10.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "A-301",
+            "Opis": "SV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 1. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "25.10.2024",
+            "Ura": "12:00-15:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR VERJETNOST",
+            "Skupina": "RIT 3 UN UP1, RIT 3 UN UP2",
+            "Izvajalec": "IZTOK PETERIN"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "25.10.2024",
+            "Ura": "14:00-16:00",
+            "Prostor": "A-301",
+            "Opis": "SV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 2. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "28.10.2024",
+            "Ura": "07:00-10:00",
+            "Prostor": "(RU) E-110",
+            "Opis": "RV MULTIMEDIA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DAVID JESENKO"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "28.10.2024",
+            "Ura": "14:00-17:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 3",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "28.10.2024",
+            "Ura": "17:00-20:00",
+            "Prostor": "(RU) E-110",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 3",
+            "Izvajalec": "SEBASTIJAN ŠPRAGER"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "29.10.2024",
+            "Ura": "08:00-11:00",
+            "Prostor": "(RU) F-201",
+            "Opis": "RV RAZVOJ RAČUNALNIŠKIH IGER",
+            "Skupina": "RIT 3 UN Erasmus",
+            "Izvajalec": "MATEJ MORAVEC"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "29.10.2024",
+            "Ura": "09:00-12:00",
+            "Prostor": "(RU) F-104",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "29.10.2024",
+            "Ura": "12:00-15:00",
+            "Prostor": "(RU) C-202",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "MARTIN ŠAVC"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "30.10.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Opis": "PR SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "ALEŠ HOLOBAR"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "30.10.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P1 ALFA, pritličje",
+            "Opis": "PR LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN",
+            "Izvajalec": "TATJANA PETEK"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "30.10.2024",
+            "Ura": "12:00-14:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Opis": "PR VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DOMEN VERBER"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "30.10.2024",
+            "Ura": "14:00-17:00",
+            "Prostor": "A-301",
+            "Opis": "SV VERJETNOST",
+            "Skupina": "RIT 3 UN UP1, RIT 3 UN UP2",
+            "Izvajalec": "ALEKSANDER KELENC"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "30.10.2024",
+            "Ura": "14:00-16:00",
+            "Prostor": "E-105",
+            "Opis": "LV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 2. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "30.10.2024",
+            "Ura": "17:00-20:00",
+            "Prostor": "(RU) G-219",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "MARTIN ŠAVC"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "04.11.2024",
+            "Ura": "07:00-10:00",
+            "Prostor": "(RU) E-110",
+            "Opis": "RV MULTIMEDIA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DAVID JESENKO"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "04.11.2024",
+            "Ura": "14:00-17:00",
+            "Prostor": "G2-P1 ALFA, pritličje",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 3",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "04.11.2024",
+            "Ura": "17:00-20:00",
+            "Prostor": "(RU) E-110",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 3",
+            "Izvajalec": "SEBASTIJAN ŠPRAGER"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "05.11.2024",
+            "Ura": "08:00-11:00",
+            "Prostor": "(RU) F-201",
+            "Opis": "RV RAZVOJ RAČUNALNIŠKIH IGER",
+            "Skupina": "RIT 3 UN Erasmus",
+            "Izvajalec": "MATEJ MORAVEC"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "05.11.2024",
+            "Ura": "09:00-12:00",
+            "Prostor": "(RU) F-104",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "05.11.2024",
+            "Ura": "12:00-15:00",
+            "Prostor": "(RU) C-202",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "MARTIN ŠAVC"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "06.11.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Opis": "PR SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "ALEŠ HOLOBAR"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "06.11.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P1 ALFA, pritličje",
+            "Opis": "PR LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN",
+            "Izvajalec": "TATJANA PETEK"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "06.11.2024",
+            "Ura": "12:00-14:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Opis": "PR VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DOMEN VERBER"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "06.11.2024",
+            "Ura": "14:00-17:00",
+            "Prostor": "A-301",
+            "Opis": "SV VERJETNOST",
+            "Skupina": "RIT 3 UN UP1, RIT 3 UN UP2",
+            "Izvajalec": "ALEKSANDER KELENC"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "06.11.2024",
+            "Ura": "14:00-16:00",
+            "Prostor": "E-105",
+            "Opis": "LV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 1. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "06.11.2024",
+            "Ura": "17:00-20:00",
+            "Prostor": "(RU) G-219",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "MARTIN ŠAVC"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "07.11.2024",
+            "Ura": "12:00-15:00",
+            "Prostor": "(RU) C-202",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "07.11.2024",
+            "Ura": "15:00-18:00",
+            "Prostor": "(RU, LA) G-217",
+            "Opis": "LV VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "ERNEST GUNGL"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "07.11.2024",
+            "Ura": "18:00-21:00",
+            "Prostor": "(RU, LA) G-217",
+            "Opis": "LV VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "ERNEST GUNGL"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "08.11.2024",
+            "Ura": "08:00-10:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DAMJAN STRNAD"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "08.11.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR MULTIMEDIA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "08.11.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "A-301",
+            "Opis": "SV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 1. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "08.11.2024",
+            "Ura": "12:00-15:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR VERJETNOST",
+            "Skupina": "RIT 3 UN UP1, RIT 3 UN UP2",
+            "Izvajalec": "IZTOK PETERIN"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "08.11.2024",
+            "Ura": "12:00-14:00",
+            "Prostor": "A-301",
+            "Opis": "PR LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN",
+            "Izvajalec": "TATJANA PETEK"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "08.11.2024",
+            "Ura": "14:00-16:00",
+            "Prostor": "A-301",
+            "Opis": "SV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 2. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "11.11.2024",
+            "Ura": "07:00-10:00",
+            "Prostor": "(RU) E-110",
+            "Opis": "RV MULTIMEDIA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DAVID JESENKO"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "11.11.2024",
+            "Ura": "14:00-17:00",
+            "Prostor": "G3-laboratorij Ada, 1. nadstropje",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 3",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "11.11.2024",
+            "Ura": "17:00-20:00",
+            "Prostor": "(RU) E-110",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 3",
+            "Izvajalec": "SEBASTIJAN ŠPRAGER"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "12.11.2024",
+            "Ura": "08:00-11:00",
+            "Prostor": "(RU) F-201",
+            "Opis": "RV RAZVOJ RAČUNALNIŠKIH IGER",
+            "Skupina": "RIT 3 UN Erasmus",
+            "Izvajalec": "MATEJ MORAVEC"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "12.11.2024",
+            "Ura": "09:00-12:00",
+            "Prostor": "(RU) F-104",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "12.11.2024",
+            "Ura": "12:00-15:00",
+            "Prostor": "(RU) C-202",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "MARTIN ŠAVC"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "13.11.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Opis": "PR SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "ALEŠ HOLOBAR"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "13.11.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P1 ALFA, pritličje",
+            "Opis": "PR LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN",
+            "Izvajalec": "TATJANA PETEK"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "13.11.2024",
+            "Ura": "12:00-14:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Opis": "PR VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DOMEN VERBER"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "13.11.2024",
+            "Ura": "14:00-17:00",
+            "Prostor": "A-301",
+            "Opis": "SV VERJETNOST",
+            "Skupina": "RIT 3 UN UP1, RIT 3 UN UP2",
+            "Izvajalec": "ALEKSANDER KELENC"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "13.11.2024",
+            "Ura": "14:00-16:00",
+            "Prostor": "E-105",
+            "Opis": "LV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 2. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "13.11.2024",
+            "Ura": "17:00-20:00",
+            "Prostor": "(RU) G-219",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "MARTIN ŠAVC"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "14.11.2024",
+            "Ura": "12:00-15:00",
+            "Prostor": "(RU) C-202",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "14.11.2024",
+            "Ura": "15:00-18:00",
+            "Prostor": "(RU, LA) G-217",
+            "Opis": "LV VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "ERNEST GUNGL"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "14.11.2024",
+            "Ura": "18:00-21:00",
+            "Prostor": "(RU, LA) G-217",
+            "Opis": "LV VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "ERNEST GUNGL"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "15.11.2024",
+            "Ura": "08:00-10:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DAMJAN STRNAD"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "15.11.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR MULTIMEDIA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "15.11.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "A-301",
+            "Opis": "SV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 1. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "15.11.2024",
+            "Ura": "12:00-15:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR VERJETNOST",
+            "Skupina": "RIT 3 UN UP1, RIT 3 UN UP2",
+            "Izvajalec": "IZTOK PETERIN"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "15.11.2024",
+            "Ura": "12:00-13:00",
+            "Prostor": "A-301",
+            "Opis": "SV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 1. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "15.11.2024",
+            "Ura": "13:00-14:00",
+            "Prostor": "A-301",
+            "Opis": "SV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 2. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "15.11.2024",
+            "Ura": "14:00-16:00",
+            "Prostor": "A-301",
+            "Opis": "SV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 2. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "18.11.2024",
+            "Ura": "07:00-10:00",
+            "Prostor": "(RU) E-110",
+            "Opis": "RV MULTIMEDIA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DAVID JESENKO"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "18.11.2024",
+            "Ura": "14:00-17:00",
+            "Prostor": "E-105",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 3",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "18.11.2024",
+            "Ura": "17:00-20:00",
+            "Prostor": "(RU) E-110",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 3",
+            "Izvajalec": "SEBASTIJAN ŠPRAGER"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "19.11.2024",
+            "Ura": "08:00-11:00",
+            "Prostor": "(RU) F-201",
+            "Opis": "RV RAZVOJ RAČUNALNIŠKIH IGER",
+            "Skupina": "RIT 3 UN Erasmus",
+            "Izvajalec": "MATEJ MORAVEC"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "19.11.2024",
+            "Ura": "09:00-12:00",
+            "Prostor": "(RU) F-104",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "19.11.2024",
+            "Ura": "12:00-15:00",
+            "Prostor": "(RU) C-202",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "MARTIN ŠAVC"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "20.11.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Opis": "PR SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "ALEŠ HOLOBAR"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "20.11.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P1 ALFA, pritličje",
+            "Opis": "PR LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN",
+            "Izvajalec": "TATJANA PETEK"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "20.11.2024",
+            "Ura": "12:00-14:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Opis": "PR VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DOMEN VERBER"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "20.11.2024",
+            "Ura": "14:00-17:00",
+            "Prostor": "A-301",
+            "Opis": "SV VERJETNOST",
+            "Skupina": "RIT 3 UN UP1, RIT 3 UN UP2",
+            "Izvajalec": "ALEKSANDER KELENC"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "20.11.2024",
+            "Ura": "14:00-16:00",
+            "Prostor": "E-105",
+            "Opis": "LV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 1. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "20.11.2024",
+            "Ura": "17:00-20:00",
+            "Prostor": "(RU) G-219",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "MARTIN ŠAVC"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "21.11.2024",
+            "Ura": "13:00-16:00",
+            "Prostor": "(RU) C-202",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "21.11.2024",
+            "Ura": "15:00-17:00",
+            "Prostor": "(RU, LA) G-217",
+            "Opis": "LV VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "ERNEST GUNGL"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "21.11.2024",
+            "Ura": "17:00-18:00",
+            "Prostor": "(RU, LA) G-217",
+            "Opis": "LV 1 VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "SEBASTIJAN ŠPRAGER"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "21.11.2024",
+            "Ura": "18:00-19:00",
+            "Prostor": "(RU, LA) G-217",
+            "Opis": "LV VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "ERNEST GUNGL"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "21.11.2024",
+            "Ura": "19:00-21:00",
+            "Prostor": "(RU, LA) G-217",
+            "Opis": "LV 1 VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "SEBASTIJAN ŠPRAGER"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "22.11.2024",
+            "Ura": "08:00-10:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DAMJAN STRNAD"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "22.11.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR MULTIMEDIA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "22.11.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "A-301",
+            "Opis": "SV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 1. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "22.11.2024",
+            "Ura": "12:00-15:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR VERJETNOST",
+            "Skupina": "RIT 3 UN UP1, RIT 3 UN UP2",
+            "Izvajalec": "IZTOK PETERIN"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "22.11.2024",
+            "Ura": "12:00-14:00",
+            "Prostor": "A-301",
+            "Opis": "PR LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN",
+            "Izvajalec": "TATJANA PETEK"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "22.11.2024",
+            "Ura": "14:00-16:00",
+            "Prostor": "A-301",
+            "Opis": "SV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 2. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "25.11.2024",
+            "Ura": "07:00-10:00",
+            "Prostor": "(RU) E-110",
+            "Opis": "RV MULTIMEDIA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DAVID JESENKO"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "25.11.2024",
+            "Ura": "14:00-17:00",
+            "Prostor": "E-105",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 3",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "25.11.2024",
+            "Ura": "17:00-20:00",
+            "Prostor": "(RU) E-110",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 3",
+            "Izvajalec": "SEBASTIJAN ŠPRAGER"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "26.11.2024",
+            "Ura": "08:00-11:00",
+            "Prostor": "(RU) F-201",
+            "Opis": "RV RAZVOJ RAČUNALNIŠKIH IGER",
+            "Skupina": "RIT 3 UN Erasmus",
+            "Izvajalec": "MATEJ MORAVEC"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "26.11.2024",
+            "Ura": "09:00-12:00",
+            "Prostor": "(RU) F-104",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "26.11.2024",
+            "Ura": "12:00-15:00",
+            "Prostor": "(RU) C-202",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "MARTIN ŠAVC"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "27.11.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Opis": "PR SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "ALEŠ HOLOBAR"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "27.11.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P1 ALFA, pritličje",
+            "Opis": "PR LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN",
+            "Izvajalec": "TATJANA PETEK"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "27.11.2024",
+            "Ura": "12:00-14:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Opis": "PR VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DOMEN VERBER"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "27.11.2024",
+            "Ura": "14:00-17:00",
+            "Prostor": "A-301",
+            "Opis": "SV VERJETNOST",
+            "Skupina": "RIT 3 UN UP1, RIT 3 UN UP2",
+            "Izvajalec": "ALEKSANDER KELENC"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "27.11.2024",
+            "Ura": "14:00-15:00",
+            "Prostor": "E-105",
+            "Opis": "LV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 2. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "27.11.2024",
+            "Ura": "17:00-20:00",
+            "Prostor": "(RU) G-219",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "MARTIN ŠAVC"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "28.11.2024",
+            "Ura": "15:00-18:00",
+            "Prostor": "(RU, LA) G-217",
+            "Opis": "LV 1 VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "SEBASTIJAN ŠPRAGER"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "28.11.2024",
+            "Ura": "18:00-21:00",
+            "Prostor": "(RU, LA) G-217",
+            "Opis": "LV 1 VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "SEBASTIJAN ŠPRAGER"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "29.11.2024",
+            "Ura": "08:00-10:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DAMJAN STRNAD"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "29.11.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR MULTIMEDIA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "29.11.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "A-301",
+            "Opis": "SV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 1. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "29.11.2024",
+            "Ura": "12:00-15:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR VERJETNOST",
+            "Skupina": "RIT 3 UN UP1, RIT 3 UN UP2",
+            "Izvajalec": "IZTOK PETERIN"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "29.11.2024",
+            "Ura": "13:00-14:00",
+            "Prostor": "A-301",
+            "Opis": "LV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 2. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "29.11.2024",
+            "Ura": "14:00-16:00",
+            "Prostor": "A-301",
+            "Opis": "SV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 2. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "29.11.2024",
+            "Ura": "16:00-19:00",
+            "Prostor": "(RU) C-202",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "02.12.2024",
+            "Ura": "07:00-10:00",
+            "Prostor": "(RU) E-110",
+            "Opis": "RV MULTIMEDIA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DAVID JESENKO"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "02.12.2024",
+            "Ura": "17:00-20:00",
+            "Prostor": "(RU) E-110",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 3",
+            "Izvajalec": "SEBASTIJAN ŠPRAGER"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "03.12.2024",
+            "Ura": "08:00-11:00",
+            "Prostor": "(RU) F-201",
+            "Opis": "RV RAZVOJ RAČUNALNIŠKIH IGER",
+            "Skupina": "RIT 3 UN Erasmus",
+            "Izvajalec": "MATEJ MORAVEC"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "03.12.2024",
+            "Ura": "09:00-12:00",
+            "Prostor": "(RU) F-104",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "03.12.2024",
+            "Ura": "12:00-15:00",
+            "Prostor": "(RU, LA) G-326",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 3",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "03.12.2024",
+            "Ura": "12:00-15:00",
+            "Prostor": "(RU) C-202",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "MARTIN ŠAVC"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "04.12.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Opis": "PR SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "ALEŠ HOLOBAR"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "04.12.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P1 ALFA, pritličje",
+            "Opis": "PR LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN",
+            "Izvajalec": "TATJANA PETEK"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "04.12.2024",
+            "Ura": "12:00-14:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Opis": "PR VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DOMEN VERBER"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "04.12.2024",
+            "Ura": "14:00-17:00",
+            "Prostor": "A-301",
+            "Opis": "SV VERJETNOST",
+            "Skupina": "RIT 3 UN UP1, RIT 3 UN UP2",
+            "Izvajalec": "ALEKSANDER KELENC"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "04.12.2024",
+            "Ura": "14:00-16:00",
+            "Prostor": "E-105",
+            "Opis": "LV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 1. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "04.12.2024",
+            "Ura": "17:00-20:00",
+            "Prostor": "(RU) G-219",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "MARTIN ŠAVC"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "05.12.2024",
+            "Ura": "15:00-18:00",
+            "Prostor": "(RU, LA) G-217",
+            "Opis": "LV 1 VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "SEBASTIJAN ŠPRAGER"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "05.12.2024",
+            "Ura": "18:00-21:00",
+            "Prostor": "(RU, LA) G-217",
+            "Opis": "LV 1 VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "SEBASTIJAN ŠPRAGER"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "06.12.2024",
+            "Ura": "08:00-10:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DAMJAN STRNAD"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "06.12.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR MULTIMEDIA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "06.12.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "A-301",
+            "Opis": "SV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 1. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "06.12.2024",
+            "Ura": "12:00-15:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR VERJETNOST",
+            "Skupina": "RIT 3 UN UP1, RIT 3 UN UP2",
+            "Izvajalec": "IZTOK PETERIN"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "06.12.2024",
+            "Ura": "12:00-14:00",
+            "Prostor": "A-301",
+            "Opis": "PR LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN",
+            "Izvajalec": "TATJANA PETEK"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "06.12.2024",
+            "Ura": "14:00-16:00",
+            "Prostor": "A-301",
+            "Opis": "SV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 2. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "06.12.2024",
+            "Ura": "16:00-19:00",
+            "Prostor": "(RU) C-202",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "09.12.2024",
+            "Ura": "07:00-10:00",
+            "Prostor": "(RU) E-110",
+            "Opis": "RV MULTIMEDIA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DAVID JESENKO"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "09.12.2024",
+            "Ura": "17:00-20:00",
+            "Prostor": "(RU) E-110",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 3",
+            "Izvajalec": "SEBASTIJAN ŠPRAGER"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "10.12.2024",
+            "Ura": "08:00-11:00",
+            "Prostor": "(RU) F-201",
+            "Opis": "RV RAZVOJ RAČUNALNIŠKIH IGER",
+            "Skupina": "RIT 3 UN Erasmus",
+            "Izvajalec": "MATEJ MORAVEC"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "10.12.2024",
+            "Ura": "09:00-12:00",
+            "Prostor": "(RU) F-104",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "10.12.2024",
+            "Ura": "12:00-15:00",
+            "Prostor": "(RU, LA) G-326",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 3",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "10.12.2024",
+            "Ura": "12:00-15:00",
+            "Prostor": "G2-P05, pritličje",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "MARTIN ŠAVC"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "11.12.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Opis": "PR SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "ALEŠ HOLOBAR"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "11.12.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P1 ALFA, pritličje",
+            "Opis": "PR LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN",
+            "Izvajalec": "TATJANA PETEK"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "11.12.2024",
+            "Ura": "12:00-14:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Opis": "PR VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DOMEN VERBER"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "11.12.2024",
+            "Ura": "14:00-17:00",
+            "Prostor": "A-301",
+            "Opis": "SV VERJETNOST",
+            "Skupina": "RIT 3 UN UP1, RIT 3 UN UP2",
+            "Izvajalec": "ALEKSANDER KELENC"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "11.12.2024",
+            "Ura": "14:00-16:00",
+            "Prostor": "E-105",
+            "Opis": "LV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 2. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "11.12.2024",
+            "Ura": "17:00-20:00",
+            "Prostor": "(RU) G-219",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "MARTIN ŠAVC"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "12.12.2024",
+            "Ura": "15:00-18:00",
+            "Prostor": "(RU, LA) G-217",
+            "Opis": "LV 1 VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "SEBASTIJAN ŠPRAGER"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "12.12.2024",
+            "Ura": "18:00-21:00",
+            "Prostor": "(RU, LA) G-217",
+            "Opis": "LV 1 VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "SEBASTIJAN ŠPRAGER"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "13.12.2024",
+            "Ura": "08:00-10:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DAMJAN STRNAD"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "13.12.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR MULTIMEDIA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "13.12.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "A-301",
+            "Opis": "SV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 1. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "13.12.2024",
+            "Ura": "12:00-15:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR VERJETNOST",
+            "Skupina": "RIT 3 UN UP1, RIT 3 UN UP2",
+            "Izvajalec": "IZTOK PETERIN"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "13.12.2024",
+            "Ura": "12:00-13:00",
+            "Prostor": "A-301",
+            "Opis": "SV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 1. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "13.12.2024",
+            "Ura": "13:00-14:00",
+            "Prostor": "A-301",
+            "Opis": "SV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 2. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "13.12.2024",
+            "Ura": "14:00-16:00",
+            "Prostor": "A-301",
+            "Opis": "SV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 2. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "13.12.2024",
+            "Ura": "16:00-19:00",
+            "Prostor": "(RU) C-202",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "16.12.2024",
+            "Ura": "07:00-10:00",
+            "Prostor": "(RU) E-110",
+            "Opis": "RV MULTIMEDIA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DAVID JESENKO"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "16.12.2024",
+            "Ura": "17:00-20:00",
+            "Prostor": "(RU) E-110",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 3",
+            "Izvajalec": "SEBASTIJAN ŠPRAGER"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "17.12.2024",
+            "Ura": "08:00-11:00",
+            "Prostor": "(RU) F-201",
+            "Opis": "RV RAZVOJ RAČUNALNIŠKIH IGER",
+            "Skupina": "RIT 3 UN Erasmus",
+            "Izvajalec": "MATEJ MORAVEC"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "17.12.2024",
+            "Ura": "09:00-12:00",
+            "Prostor": "(RU) F-104",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "17.12.2024",
+            "Ura": "12:00-15:00",
+            "Prostor": "(RU, LA) G-326",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 3",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "17.12.2024",
+            "Ura": "12:00-15:00",
+            "Prostor": "G2-P05, pritličje",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "MARTIN ŠAVC"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "18.12.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Opis": "PR SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "ALEŠ HOLOBAR"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "18.12.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P1 ALFA, pritličje",
+            "Opis": "PR LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN",
+            "Izvajalec": "TATJANA PETEK"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "18.12.2024",
+            "Ura": "12:00-14:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Opis": "PR VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DOMEN VERBER"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "18.12.2024",
+            "Ura": "14:00-17:00",
+            "Prostor": "A-301",
+            "Opis": "SV VERJETNOST",
+            "Skupina": "RIT 3 UN UP1, RIT 3 UN UP2",
+            "Izvajalec": "ALEKSANDER KELENC"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "18.12.2024",
+            "Ura": "14:00-16:00",
+            "Prostor": "E-105",
+            "Opis": "LV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 1. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "18.12.2024",
+            "Ura": "17:00-20:00",
+            "Prostor": "(RU) G-219",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "MARTIN ŠAVC"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "19.12.2024",
+            "Ura": "15:00-18:00",
+            "Prostor": "(RU, LA) G-217",
+            "Opis": "LV 1 VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "SEBASTIJAN ŠPRAGER"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "19.12.2024",
+            "Ura": "18:00-21:00",
+            "Prostor": "(RU, LA) G-217",
+            "Opis": "LV 1 VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "SEBASTIJAN ŠPRAGER"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "20.12.2024",
+            "Ura": "08:00-10:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DAMJAN STRNAD"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "20.12.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR MULTIMEDIA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "20.12.2024",
+            "Ura": "10:00-12:00",
+            "Prostor": "A-301",
+            "Opis": "SV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 1. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "20.12.2024",
+            "Ura": "12:00-15:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR VERJETNOST",
+            "Skupina": "RIT 3 UN UP1, RIT 3 UN UP2",
+            "Izvajalec": "IZTOK PETERIN"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "20.12.2024",
+            "Ura": "12:00-14:00",
+            "Prostor": "A-301",
+            "Opis": "PR LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN",
+            "Izvajalec": "TATJANA PETEK"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "20.12.2024",
+            "Ura": "14:00-16:00",
+            "Prostor": "A-301",
+            "Opis": "SV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 2. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "20.12.2024",
+            "Ura": "16:00-19:00",
+            "Prostor": "(RU) C-202",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "23.12.2024",
+            "Ura": "07:00-10:00",
+            "Prostor": "(RU) E-110",
+            "Opis": "RV MULTIMEDIA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DAVID JESENKO"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "06.01.2025",
+            "Ura": "07:00-10:00",
+            "Prostor": "(RU) E-110",
+            "Opis": "RV MULTIMEDIA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DAVID JESENKO"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "06.01.2025",
+            "Ura": "17:00-20:00",
+            "Prostor": "(RU) E-110",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 3",
+            "Izvajalec": "SEBASTIJAN ŠPRAGER"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "07.01.2025",
+            "Ura": "08:00-11:00",
+            "Prostor": "(RU) F-201",
+            "Opis": "RV RAZVOJ RAČUNALNIŠKIH IGER",
+            "Skupina": "RIT 3 UN Erasmus",
+            "Izvajalec": "MATEJ MORAVEC"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "07.01.2025",
+            "Ura": "09:00-12:00",
+            "Prostor": "(RU) F-104",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "07.01.2025",
+            "Ura": "12:00-15:00",
+            "Prostor": "(RU, LA) G-326",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 3",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "07.01.2025",
+            "Ura": "12:00-15:00",
+            "Prostor": "G2-P05, pritličje",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "MARTIN ŠAVC"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "08.01.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Opis": "PR SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "ALEŠ HOLOBAR"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "08.01.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P1 ALFA, pritličje",
+            "Opis": "PR LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN",
+            "Izvajalec": "TATJANA PETEK"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "08.01.2025",
+            "Ura": "12:00-14:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Opis": "PR VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DOMEN VERBER"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "08.01.2025",
+            "Ura": "14:00-17:00",
+            "Prostor": "A-301",
+            "Opis": "SV VERJETNOST",
+            "Skupina": "RIT 3 UN UP1, RIT 3 UN UP2",
+            "Izvajalec": "ALEKSANDER KELENC"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "08.01.2025",
+            "Ura": "14:00-16:00",
+            "Prostor": "E-105",
+            "Opis": "LV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 2. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "08.01.2025",
+            "Ura": "17:00-20:00",
+            "Prostor": "(RU) G-219",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "MARTIN ŠAVC"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "09.01.2025",
+            "Ura": "15:00-18:00",
+            "Prostor": "(RU, LA) G-217",
+            "Opis": "LV 1 VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "SEBASTIJAN ŠPRAGER"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "09.01.2025",
+            "Ura": "18:00-21:00",
+            "Prostor": "(RU, LA) G-217",
+            "Opis": "LV 1 VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "SEBASTIJAN ŠPRAGER"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "10.01.2025",
+            "Ura": "08:00-10:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DAMJAN STRNAD"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "10.01.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR MULTIMEDIA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "10.01.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "A-301",
+            "Opis": "SV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 1. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "10.01.2025",
+            "Ura": "12:00-15:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR VERJETNOST",
+            "Skupina": "RIT 3 UN UP1, RIT 3 UN UP2",
+            "Izvajalec": "IZTOK PETERIN"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "10.01.2025",
+            "Ura": "12:00-14:00",
+            "Prostor": "A-301",
+            "Opis": "PR LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN",
+            "Izvajalec": "TATJANA PETEK"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "10.01.2025",
+            "Ura": "14:00-16:00",
+            "Prostor": "A-301",
+            "Opis": "SV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 2. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "10.01.2025",
+            "Ura": "16:00-19:00",
+            "Prostor": "(RU) C-202",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "13.01.2025",
+            "Ura": "07:00-10:00",
+            "Prostor": "(RU) E-110",
+            "Opis": "RV MULTIMEDIA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DAVID JESENKO"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "13.01.2025",
+            "Ura": "17:00-20:00",
+            "Prostor": "(RU) E-110",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 3",
+            "Izvajalec": "SEBASTIJAN ŠPRAGER"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "14.01.2025",
+            "Ura": "08:00-11:00",
+            "Prostor": "(RU) F-201",
+            "Opis": "RV RAZVOJ RAČUNALNIŠKIH IGER",
+            "Skupina": "RIT 3 UN Erasmus",
+            "Izvajalec": "MATEJ MORAVEC"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "14.01.2025",
+            "Ura": "09:00-12:00",
+            "Prostor": "(RU) F-104",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "14.01.2025",
+            "Ura": "12:00-15:00",
+            "Prostor": "(RU, LA) G-326",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 3",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "14.01.2025",
+            "Ura": "12:00-15:00",
+            "Prostor": "G2-P05, pritličje",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "MARTIN ŠAVC"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "15.01.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Opis": "PR SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "ALEŠ HOLOBAR"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "15.01.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P1 ALFA, pritličje",
+            "Opis": "PR LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN",
+            "Izvajalec": "TATJANA PETEK"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "15.01.2025",
+            "Ura": "12:00-14:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Opis": "PR VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DOMEN VERBER"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "15.01.2025",
+            "Ura": "14:00-17:00",
+            "Prostor": "A-301",
+            "Opis": "SV VERJETNOST",
+            "Skupina": "RIT 3 UN UP1, RIT 3 UN UP2",
+            "Izvajalec": "ALEKSANDER KELENC"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "15.01.2025",
+            "Ura": "14:00-16:00",
+            "Prostor": "E-105",
+            "Opis": "LV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 1. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "15.01.2025",
+            "Ura": "17:00-20:00",
+            "Prostor": "(RU) G-219",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "MARTIN ŠAVC"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "16.01.2025",
+            "Ura": "15:00-18:00",
+            "Prostor": "(RU, LA) G-217",
+            "Opis": "LV 1 VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "SEBASTIJAN ŠPRAGER"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "16.01.2025",
+            "Ura": "18:00-21:00",
+            "Prostor": "(RU, LA) G-217",
+            "Opis": "LV 1 VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "SEBASTIJAN ŠPRAGER"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "17.01.2025",
+            "Ura": "08:00-10:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DAMJAN STRNAD"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "17.01.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR MULTIMEDIA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "17.01.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "A-301",
+            "Opis": "SV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 1. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "17.01.2025",
+            "Ura": "12:00-15:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR VERJETNOST",
+            "Skupina": "RIT 3 UN UP1, RIT 3 UN UP2",
+            "Izvajalec": "IZTOK PETERIN"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "17.01.2025",
+            "Ura": "14:00-16:00",
+            "Prostor": "A-301",
+            "Opis": "SV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 2. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "17.01.2025",
+            "Ura": "16:00-19:00",
+            "Prostor": "(RU) C-202",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "20.01.2025",
+            "Ura": "07:00-10:00",
+            "Prostor": "(RU) E-110",
+            "Opis": "RV MULTIMEDIA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DAVID JESENKO"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "20.01.2025",
+            "Ura": "17:00-20:00",
+            "Prostor": "(RU) E-110",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 3",
+            "Izvajalec": "SEBASTIJAN ŠPRAGER"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "21.01.2025",
+            "Ura": "08:00-11:00",
+            "Prostor": "G2-P04, pritličje",
+            "Opis": "RV RAZVOJ RAČUNALNIŠKIH IGER",
+            "Skupina": "RIT 3 UN Erasmus",
+            "Izvajalec": "MATEJ MORAVEC"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "21.01.2025",
+            "Ura": "09:00-12:00",
+            "Prostor": "(RU) F-104",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "21.01.2025",
+            "Ura": "12:00-15:00",
+            "Prostor": "(RU, LA) G-326",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 3",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "21.01.2025",
+            "Ura": "12:00-15:00",
+            "Prostor": "G2-P05, pritličje",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "MARTIN ŠAVC"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "22.01.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Opis": "PR SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "ALEŠ HOLOBAR"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "22.01.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P1 ALFA, pritličje",
+            "Opis": "PR LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN",
+            "Izvajalec": "TATJANA PETEK"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "22.01.2025",
+            "Ura": "12:00-14:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Opis": "PR VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DOMEN VERBER"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "22.01.2025",
+            "Ura": "14:00-17:00",
+            "Prostor": "A-301",
+            "Opis": "SV VERJETNOST",
+            "Skupina": "RIT 3 UN UP1, RIT 3 UN UP2",
+            "Izvajalec": "ALEKSANDER KELENC"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "22.01.2025",
+            "Ura": "14:00-15:00",
+            "Prostor": "E-105",
+            "Opis": "LV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 1. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "22.01.2025",
+            "Ura": "15:00-17:00",
+            "Prostor": "E-105",
+            "Opis": "LV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 2. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "22.01.2025",
+            "Ura": "17:00-20:00",
+            "Prostor": "(RU) G-219",
+            "Opis": "RV SNOVANJE RAČUNALNIŠKIH IN DIGITALNIH SISTEMOV",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "MARTIN ŠAVC"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "23.01.2025",
+            "Ura": "15:00-18:00",
+            "Prostor": "(RU, LA) G-217",
+            "Opis": "LV 1 VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2 RV 1",
+            "Izvajalec": "SEBASTIJAN ŠPRAGER"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "23.01.2025",
+            "Ura": "18:00-21:00",
+            "Prostor": "(RU, LA) G-217",
+            "Opis": "LV 1 VGRAJENI SISTEMI",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "SEBASTIJAN ŠPRAGER"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "24.01.2025",
+            "Ura": "08:00-10:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "DAMJAN STRNAD"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "24.01.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "G2-P01, pritličje",
+            "Opis": "PR MULTIMEDIA",
+            "Skupina": "RIT 3 UN UP2",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "24.01.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "A-301",
+            "Opis": "SV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 1. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "24.01.2025",
+            "Ura": "14:00-16:00",
+            "Prostor": "A-301",
+            "Opis": "SV LINEARNA ALGEBRA",
+            "Skupina": "RIT 2 UN 2. sk.",
+            "Izvajalec": "GORDANA RADIĆ"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "24.01.2025",
+            "Ura": "16:00-19:00",
+            "Prostor": "(RU) C-202",
+            "Opis": "RV RAČUNALNIŠKA GRAFIKA",
+            "Skupina": "RIT 3 UN UP2 RV 2",
+            "Izvajalec": "ŠTEFAN KOHEK"
+        }
+    ]
+}

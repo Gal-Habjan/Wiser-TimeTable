@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="TimeTable.MainPage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+
+    <ScrollView>
+        <VerticalStackLayout Spacing="5">
+
+            <Grid
+                x:Name="TimetableGrid"
+                BackgroundColor="black"
+                ColumnSpacing="1"
+                RowSpacing="1">
+
+                <!--  Row and column definitions will be added programmatically  -->
+            </Grid>
+            <Button Clicked="OnRefreshButtonClicked" Text="Refresh Timetable" />
+            <Button Clicked="OnSettingsClicked" Text="Settings" />
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
