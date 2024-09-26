@@ -4,6 +4,9 @@ using System.Security.Cryptography.X509Certificates;
 using System.Diagnostics;
 using System.Globalization;
 using Microsoft.Maui.Storage;
+using System.Text.RegularExpressions;
+
+
 namespace TimeTable
 {
 
@@ -18,11 +21,17 @@ namespace TimeTable
     public partial class MainPage : ContentPage
     {
         public List<ClassEntry> availableClasses = new List<ClassEntry>();
+        public int weekSelect;
         public MainPage()
         {
             InitializeComponent();
             InitializeTimetable(); // creates the table (defines rows and collums) each line is a row too thats why there is more than there are hours
             PopulateTimeTable(); // put classes there and seperators and stuff
+            DateTime now = DateTime.Now;
+            string dayOfWeekWord = now.ToString("dddd"); // Get the day of the week as a word
+
+            Title = $"{dayOfWeekWord} - {now.ToString("dd.MM.yyyy")}";
+            
         }
         protected override async void OnAppearing()
         {
@@ -85,14 +94,36 @@ namespace TimeTable
                 //prostor
                 var secondPart = new Span
                 {
-                    Text = classEntry.Prostor,
+                    Text = classEntry.Prostor+"\n",
                     FontSize = fontSize-2,
+
+                };
+                string pattern = @"RV(.*)";
+                string patternNumber = @"\d+\.(.*)";
+                string skupinaTextShort = "";
+                Match match = Regex.Match(classEntry.Skupina, pattern);
+                if (match.Success)
+                {
+                    skupinaTextShort = match.Groups[0].Value.Trim(); // Group 1 contains everything after RV and the digits
+                    Trace.WriteLine(skupinaTextShort);
+                }
+                match = Regex.Match(classEntry.Skupina, patternNumber);
+                if (match.Success)
+                {
+                    skupinaTextShort = match.Groups[0].Value.Trim(); // Group 1 contains everything after RV and the digits
+                    Trace.WriteLine(skupinaTextShort);
+                }
+                var groupPart = new Span
+                {
+                    Text = skupinaTextShort+"\n",
+                    FontSize = fontSize - 2,
 
                 };
 
                 // Create a formatted string with both spans
                 var formattedString = new FormattedString();
                 formattedString.Spans.Add(firstPart);
+                formattedString.Spans.Add(groupPart);
                 formattedString.Spans.Add(secondPart);
                 //putting them together
                 // Create the label
@@ -174,8 +205,8 @@ namespace TimeTable
         {
 
 
-            
-            DateTime.TryParse(subject.Datum, out DateTime thisSubjectDate);
+
+            DateTime.TryParseExact(subject.Datum, "dd.MM.yyyy", CultureInfo.InvariantCulture, DateTimeStyles.None, out DateTime thisSubjectDate);
             foreach (ClassEntry classEntry in classes)
             {
                 if (classEntry == subject)
@@ -184,7 +215,7 @@ namespace TimeTable
                     
                     continue;
                 }
-                DateTime.TryParse(classEntry.Datum, out DateTime classDate);
+                DateTime.TryParseExact(classEntry.Datum, "dd.MM.yyyy", CultureInfo.InvariantCulture, DateTimeStyles.None, out DateTime classDate);
                 if (thisSubjectDate == classDate)
                 {
                     string[] timeRange1 = classEntry.Ura.Split('-');
@@ -197,10 +228,10 @@ namespace TimeTable
                     if (startTime2 < endTime1 && startTime1 < endTime2)
                     {
                         if (!subject.isFirst) {
-                            
                             subject.isFirst = !classEntry.isFirst;
                         }
 
+                        //Trace.WriteLine(classEntry.Opis+" "+ classDate + " " + subject.Opis + " " + thisSubjectDate);
                         subject.hasOverlap = true;
                         return;
                     }
@@ -259,7 +290,7 @@ namespace TimeTable
             availableClasses.Clear();
             // Deserialize the JSON data (make sure to create your classes accordingly)
             List<ClassEntry> classes = JsonSerializer.Deserialize<RootObject>(jsonData)?.Classes;
-            DateTime currentDate = DateTime.Now.Date.AddDays(7);
+            DateTime currentDate = DateTime.Now.Date.AddDays(weekSelect* 7);
             int currentDayOfWeek = (int)currentDate.DayOfWeek;
             DateTime minDate = currentDate.AddDays(-currentDayOfWeek);
             DateTime maxDate = currentDayOfWeek == 6 ? currentDate.AddDays(7) : currentDate.AddDays(7 - currentDayOfWeek);
@@ -283,6 +314,14 @@ namespace TimeTable
                 }
 
             }
+        }
+        private void OnNumberStepperChanged(object sender, ValueChangedEventArgs e)
+        {
+            weekSelect = (int) e.NewValue;
+
+
+            StepperLabel.Text = $"+{weekSelect} weeks";
+            RefreshTimetableAsync();
         }
     }
 

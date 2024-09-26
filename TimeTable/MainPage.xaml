@@ -15,8 +15,37 @@
 
                 <!--  Row and column definitions will be added programmatically  -->
             </Grid>
-            <Button Clicked="OnRefreshButtonClicked" Text="Refresh Timetable" />
+            <!--  you can put this in one row with a grid  -->
+
+            <Grid Padding="10" HorizontalOptions="CenterAndExpand">
+                <!--  Define 1 row and 2 columns  -->
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="Auto" />
+                </Grid.ColumnDefinitions>
+
+                <!--  Stepper in the first column  -->
+                <Stepper
+                    x:Name="NumberStepper"
+                    Grid.Column="0"
+                    HorizontalOptions="CenterAndExpand"
+                    Increment="1"
+                    Maximum="10"
+                    Minimum="0"
+                    ValueChanged="OnNumberStepperChanged" />
+
+                <!--  Label in the second column  -->
+                <Label
+                    x:Name="StepperLabel"
+                    Grid.Column="1"
+                    HorizontalOptions="CenterAndExpand"
+                    Text="Current Value: 0" />
+            </Grid>
             <Button Clicked="OnSettingsClicked" Text="Settings" />
+            <Button Clicked="OnRefreshButtonClicked" Text="Refresh Timetable" />
         </VerticalStackLayout>
     </ScrollView>
 
