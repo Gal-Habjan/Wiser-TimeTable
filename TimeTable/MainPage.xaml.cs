@@ -5,6 +5,9 @@ using System.Diagnostics;
 using System.Globalization;
 using Microsoft.Maui.Storage;
 using System.Text.RegularExpressions;
+using Firebase.Database;
+using CommunityToolkit.Mvvm.DependencyInjection;
+using Newtonsoft.Json;
 
 
 namespace TimeTable
@@ -22,7 +25,8 @@ namespace TimeTable
     {
         public List<ClassEntry> availableClasses = new List<ClassEntry>();
         public int weekSelect;
-        public MainPage()
+        private FirebaseClient _firebaseClient;
+        public MainPage(FirebaseClient firebaseClient)
         {
             InitializeComponent();
             InitializeTimetable(); // creates the table (defines rows and collums) each line is a row too thats why there is more than there are hours
@@ -31,8 +35,74 @@ namespace TimeTable
             string dayOfWeekWord = now.ToString("dddd"); // Get the day of the week as a word
 
             Title = $"{dayOfWeekWord} - {now.ToString("dd.MM.yyyy")}";
-            
+            Trace.WriteLine("aaaassssss");
+            _firebaseClient = firebaseClient;
+            GetDatabaseFromFirebase();
         }
+        public async void GetDatabaseFromFirebase()
+        {
+            try
+            {
+                // Get the hash from Firebase
+                string firebaseHash = await _firebaseClient.Child("Hash").OnceSingleAsync<string>();
+
+                string jsonData = "";
+                string appDataFilePath = Path.Combine(FileSystem.AppDataDirectory, "school.json");
+                string localHash = "";
+                
+                // Read the local JSON file
+                if (File.Exists(appDataFilePath))
+                {
+                    jsonData = await File.ReadAllTextAsync(appDataFilePath);
+
+
+                    // Deserialize the JSON data to get the local hash
+
+                    var responses = JsonConvert.DeserializeObject<List<FirebaseResponse>>(jsonData);
+
+                    foreach (var response in responses)
+                    {
+                        if (response.Key == "Hash")
+                        {
+                            localHash = response.Object.ToString();
+                        }
+                        
+                    }
+
+                }
+                Trace.WriteLine($"Firebase Hash: {firebaseHash}");
+                Trace.WriteLine($"Local Hash: {localHash}");
+
+
+                // Compare hashes
+                if (firebaseHash != localHash)
+                {
+                    Trace.WriteLine("Hashes don't match. Updating local data...");
+
+                    // Fetch the entire database from Firebase
+                    var databaseData = await _firebaseClient.Child("/").OnceAsync<object>();
+                    
+
+                    // Convert the retrieved data to JSON format
+                    jsonData = JsonConvert.SerializeObject(databaseData);
+                    
+                    // Save the JSON data to the file
+                    await File.WriteAllTextAsync(appDataFilePath, jsonData);
+
+                    Trace.WriteLine("Local data updated successfully.");
+                }
+                else
+                {
+                    Trace.WriteLine("Hashes match. No update needed.");
+                }
+            }
+            catch (Exception e)
+            {
+                Trace.WriteLine($"Error: {e.Message}");
+                Trace.WriteLine(e.StackTrace);
+            }
+        }
+        
         protected override async void OnAppearing()
         {
             base.OnAppearing();
@@ -70,12 +140,12 @@ namespace TimeTable
             await GetAvailableSubjects();
             foreach (var classEntry in availableClasses)
             {
-                
+
                 string[] timeRange = classEntry.Ura.Split('-');
                 var startTime = int.Parse(timeRange[0].Split(':')[0]);
                 var endTime = int.Parse(timeRange[1].Split(':')[0]);
 
-                int dayColumn = Array.IndexOf(daysOfWeek, classEntry.Dan) * 2 + 1; 
+                int dayColumn = Array.IndexOf(daysOfWeek, classEntry.Dan) * 2 + 1;
 
                 int rowSpan = (endTime - startTime) * 2 - 1;
                 int startRow = (startTime - 6) * 2;
@@ -87,15 +157,15 @@ namespace TimeTable
                 var firstPart = new Span
                 {
                     Text = classEntry.Opis + "\n",
-                    FontSize = fontSize, 
+                    FontSize = fontSize,
 
                 };
 
                 //prostor
                 var secondPart = new Span
                 {
-                    Text = classEntry.Prostor+"\n",
-                    FontSize = fontSize-2,
+                    Text = classEntry.Prostor + "\n",
+                    FontSize = fontSize - 2,
 
                 };
                 string pattern = @"RV(.*)";
@@ -115,7 +185,7 @@ namespace TimeTable
                 }
                 var groupPart = new Span
                 {
-                    Text = skupinaTextShort+"\n",
+                    Text = skupinaTextShort + "\n",
                     FontSize = fontSize - 2,
 
                 };
@@ -147,10 +217,11 @@ namespace TimeTable
                 Grid.SetRow(classLabel, startRow);
 
                 Grid.SetRowSpan(classLabel, rowSpan);
-                
+
                 Grid.SetColumn(classLabel, dayColumn);
 
-                if (classEntry.hasOverlap) {
+                if (classEntry.hasOverlap)
+                {
                     if (!classEntry.isFirst)
                     {
 
@@ -212,7 +283,7 @@ namespace TimeTable
                 if (classEntry == subject)
                 {
                     classEntry.isFirst = true;
-                    
+
                     continue;
                 }
                 DateTime.TryParseExact(classEntry.Datum, "dd.MM.yyyy", CultureInfo.InvariantCulture, DateTimeStyles.None, out DateTime classDate);
@@ -227,7 +298,8 @@ namespace TimeTable
 
                     if (startTime2 < endTime1 && startTime1 < endTime2)
                     {
-                        if (!subject.isFirst) {
+                        if (!subject.isFirst)
+                        {
                             subject.isFirst = !classEntry.isFirst;
                         }
 
@@ -244,7 +316,7 @@ namespace TimeTable
 
             }
             subject.hasOverlap = false;
-           
+
         }
         private async void OnClassLabelTapped(ClassEntry classEntry)
         {
@@ -273,24 +345,36 @@ namespace TimeTable
         public async Task GetAvailableSubjects()
         {
 
-            
-            string jsonData;
-            try
+
+            string jsonData = "";
+            string appDataFilePath = Path.Combine(FileSystem.AppDataDirectory, "school.json");
+            string localHash = "";
+            List<ClassEntry> classes = new List<ClassEntry>();
+            // Read the local JSON file
+            if (File.Exists(appDataFilePath))
             {
-                using var stream = await FileSystem.OpenAppPackageFileAsync("school.json");
-                using var reader = new StreamReader(stream);
-                jsonData = await reader.ReadToEndAsync();
-            }
-            catch (Exception ex)
-            {
-                // Handle exceptions (e.g., file not found)
-                Trace.WriteLine($"Error loading JSON file: {ex.Message}");
-                return;
+                jsonData = await File.ReadAllTextAsync(appDataFilePath);
+
+
+                // Deserialize the JSON data to get the local hash
+
+                var responses = JsonConvert.DeserializeObject<List<FirebaseResponse>>(jsonData);
+
+                foreach (var response in responses)
+                {
+                    if (response.Key == "Classes")
+                    {
+                        var classesJson = JsonConvert.SerializeObject(response.Object);
+                        classes = JsonConvert.DeserializeObject<List<ClassEntry>>(classesJson);
+                    }
+
+                }
+
             }
             availableClasses.Clear();
             // Deserialize the JSON data (make sure to create your classes accordingly)
-            List<ClassEntry> classes = JsonSerializer.Deserialize<RootObject>(jsonData)?.Classes;
-            DateTime currentDate = DateTime.Now.Date.AddDays(weekSelect* 7);
+            
+            DateTime currentDate = DateTime.Now.Date.AddDays(weekSelect * 7);
             int currentDayOfWeek = (int)currentDate.DayOfWeek;
             DateTime minDate = currentDate.AddDays(-currentDayOfWeek);
             DateTime maxDate = currentDayOfWeek == 6 ? currentDate.AddDays(7) : currentDate.AddDays(7 - currentDayOfWeek);
@@ -317,7 +401,7 @@ namespace TimeTable
         }
         private void OnNumberStepperChanged(object sender, ValueChangedEventArgs e)
         {
-            weekSelect = (int) e.NewValue;
+            weekSelect = (int)e.NewValue;
 
 
             StepperLabel.Text = $"+{weekSelect} weeks";
