@@ -1,4 +1,5 @@
-﻿using Microsoft.Extensions.Logging;
+﻿using Firebase.Database;
+using Microsoft.Extensions.Logging;
 
 namespace TimeTable
 {
@@ -18,7 +19,8 @@ namespace TimeTable
 #if DEBUG
     		builder.Logging.AddDebug();
 #endif
-
+            builder.Services.AddSingleton(new FirebaseClient("https://wiser-timetable-default-rtdb.europe-west1.firebasedatabase.app/"));
+            builder.Services.AddSingleton<MainPage>();
             return builder.Build();
         }
     }

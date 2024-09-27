@@ -6,8 +6,14 @@ using System.Threading.Tasks;
 
 namespace TimeTable
 {
+    public class FirebaseResponse
+    {
+        public string Key { get; set; }
+        public object Object { get; set; }
+    }
     public class RootObject
     {
+        public string Hash { get; set; }
         public List<ClassEntry> Classes { get; set; }
     }
     public class ClassEntry
