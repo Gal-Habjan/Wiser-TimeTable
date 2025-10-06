@@ -1,0 +1,3731 @@
+{
+    "Hash": "9ac2fd6327a608b57d396a9116cd134ee43bb560e96ee593d76300593b46a636",
+    "Classes": [
+        {
+            "Dan": "Sreda",
+            "Datum": "01.10.2025",
+            "Ura": "11:00-13:00",
+            "Prostor": "G2-P02, pritličje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "SV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "01.10.2025",
+            "Ura": "14:00-16:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "PR RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "01.10.2025",
+            "Ura": "16:00-18:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "SV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "02.10.2025",
+            "Ura": "13:00-15:00",
+            "Prostor": "G2-P1 ALFA, pritličje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "PR SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "02.10.2025",
+            "Ura": "15:00-17:00",
+            "Prostor": "A-306",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "PETER KOKOL",
+            "Opis": "PR RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "02.10.2025",
+            "Ura": "17:00-19:00",
+            "Prostor": "G2-P2 BETA, pritličje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "SV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "03.10.2025",
+            "Ura": "08:00-10:00",
+            "Prostor": "A-302",
+            "Skupina": "MAG 1 RIT, MAG 2 TK",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "SV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "06.10.2025",
+            "Ura": "07:00-09:00",
+            "Prostor": "G2-P3 GAMA, 2. nadstropje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "ŠTEFAN KOHEK",
+            "Opis": "SV IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "06.10.2025",
+            "Ura": "12:00-14:00",
+            "Prostor": "E-105",
+            "Skupina": "MAG 1 RIT, MAG 2 TK",
+            "Izvajalec": "ŠTEFAN KOHEK",
+            "Opis": "PR RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "06.10.2025",
+            "Ura": "14:00-16:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "PR DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "06.10.2025",
+            "Ura": "16:00-18:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "SV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "06.10.2025",
+            "Ura": "18:00-20:00",
+            "Prostor": "G3-laboratorij Ada, 1. nadstropje",
+            "Skupina": "MAG 1 RIT RV 5",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "07.10.2025",
+            "Ura": "11:00-13:00",
+            "Prostor": "G2-P2 BETA, pritličje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "DAMJAN STRNAD",
+            "Opis": "PR IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "07.10.2025",
+            "Ura": "13:00-15:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "07.10.2025",
+            "Ura": "15:00-17:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "07.10.2025",
+            "Ura": "17:00-19:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "07.10.2025",
+            "Ura": "19:00-21:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "08.10.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "08.10.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 4, MAG 2 TK",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "08.10.2025",
+            "Ura": "12:00-14:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "08.10.2025",
+            "Ura": "12:00-14:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "08.10.2025",
+            "Ura": "14:00-16:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "PR RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "08.10.2025",
+            "Ura": "16:00-18:00",
+            "Prostor": "G3-amfiteater Gauss, klet",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "08.10.2025",
+            "Ura": "16:00-18:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "08.10.2025",
+            "Ura": "18:00-20:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "09.10.2025",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-103 b",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": ". DEMONSTRATOR",
+            "Opis": "RV IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "09.10.2025",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-103 a",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "ŠTEFAN KOHEK",
+            "Opis": "RV IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "09.10.2025",
+            "Ura": "09:00-11:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "09.10.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) G3-laboratorij Lumiere, klet",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "09.10.2025",
+            "Ura": "11:00-13:00",
+            "Prostor": "(RU) C-202",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "09.10.2025",
+            "Ura": "11:00-13:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "09.10.2025",
+            "Ura": "13:00-15:00",
+            "Prostor": "G2-P1 ALFA, pritličje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "PR SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "09.10.2025",
+            "Ura": "15:00-17:00",
+            "Prostor": "A-306",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "PETER KOKOL",
+            "Opis": "PR RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "09.10.2025",
+            "Ura": "17:00-19:00",
+            "Prostor": "(RU) F-104",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "09.10.2025",
+            "Ura": "19:00-21:00",
+            "Prostor": "(RU) F-104",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "10.10.2025",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "10.10.2025",
+            "Ura": "09:00-11:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "10.10.2025",
+            "Ura": "13:00-15:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "13.10.2025",
+            "Ura": "12:00-14:00",
+            "Prostor": "E-105",
+            "Skupina": "MAG 1 RIT, MAG 2 TK",
+            "Izvajalec": "ŠTEFAN KOHEK",
+            "Opis": "PR RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "13.10.2025",
+            "Ura": "14:00-16:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "PR DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "13.10.2025",
+            "Ura": "18:00-20:00",
+            "Prostor": "G3-laboratorij Ada, 1. nadstropje",
+            "Skupina": "MAG 1 RIT RV 5",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "14.10.2025",
+            "Ura": "11:00-13:00",
+            "Prostor": "G2-P2 BETA, pritličje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "DAMJAN STRNAD",
+            "Opis": "PR IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "14.10.2025",
+            "Ura": "13:00-15:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "14.10.2025",
+            "Ura": "15:00-17:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "14.10.2025",
+            "Ura": "17:00-19:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "14.10.2025",
+            "Ura": "19:00-21:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "15.10.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "15.10.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 4, MAG 2 TK",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "15.10.2025",
+            "Ura": "12:00-14:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "15.10.2025",
+            "Ura": "12:00-14:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "15.10.2025",
+            "Ura": "14:00-16:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "PR RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "15.10.2025",
+            "Ura": "16:00-18:00",
+            "Prostor": "G3-amfiteater Gauss, klet",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "15.10.2025",
+            "Ura": "16:00-18:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "15.10.2025",
+            "Ura": "18:00-20:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "16.10.2025",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-103 b",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": ". DEMONSTRATOR",
+            "Opis": "RV IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "16.10.2025",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-103 a",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "ŠTEFAN KOHEK",
+            "Opis": "RV IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "16.10.2025",
+            "Ura": "09:00-11:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "16.10.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "G3-diplomska soba FERI, 1. nadstropje",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "16.10.2025",
+            "Ura": "11:00-13:00",
+            "Prostor": "(RU) C-202",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "16.10.2025",
+            "Ura": "11:00-13:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "16.10.2025",
+            "Ura": "13:00-15:00",
+            "Prostor": "G2-P1 ALFA, pritličje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "PR SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "16.10.2025",
+            "Ura": "15:00-17:00",
+            "Prostor": "A-306",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "PETER KOKOL",
+            "Opis": "PR RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "16.10.2025",
+            "Ura": "17:00-19:00",
+            "Prostor": "(RU) F-104",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "16.10.2025",
+            "Ura": "19:00-21:00",
+            "Prostor": "(RU) F-104",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "17.10.2025",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "17.10.2025",
+            "Ura": "09:00-11:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "17.10.2025",
+            "Ura": "13:00-15:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "20.10.2025",
+            "Ura": "12:00-14:00",
+            "Prostor": "E-105",
+            "Skupina": "MAG 1 RIT, MAG 2 TK",
+            "Izvajalec": "ŠTEFAN KOHEK",
+            "Opis": "PR RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "20.10.2025",
+            "Ura": "14:00-16:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "PR DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "20.10.2025",
+            "Ura": "18:00-20:00",
+            "Prostor": "G3-laboratorij Ada, 1. nadstropje",
+            "Skupina": "MAG 1 RIT RV 5",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "21.10.2025",
+            "Ura": "11:00-13:00",
+            "Prostor": "G2-P2 BETA, pritličje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "DAMJAN STRNAD",
+            "Opis": "PR IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "21.10.2025",
+            "Ura": "13:00-15:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "21.10.2025",
+            "Ura": "15:00-17:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "21.10.2025",
+            "Ura": "17:00-19:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "21.10.2025",
+            "Ura": "19:00-21:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "22.10.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "22.10.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 4, MAG 2 TK",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "22.10.2025",
+            "Ura": "12:00-14:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "22.10.2025",
+            "Ura": "12:00-14:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "22.10.2025",
+            "Ura": "14:00-16:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "PR RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "22.10.2025",
+            "Ura": "16:00-18:00",
+            "Prostor": "G3-amfiteater Gauss, klet",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "22.10.2025",
+            "Ura": "16:00-18:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "22.10.2025",
+            "Ura": "18:00-20:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "23.10.2025",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-103 b",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": ". DEMONSTRATOR",
+            "Opis": "RV IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "23.10.2025",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-103 a",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "ŠTEFAN KOHEK",
+            "Opis": "RV IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "23.10.2025",
+            "Ura": "09:00-11:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "23.10.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) G3-laboratorij Lumiere, klet",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "23.10.2025",
+            "Ura": "11:00-13:00",
+            "Prostor": "(RU) C-202",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "23.10.2025",
+            "Ura": "11:00-13:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "23.10.2025",
+            "Ura": "13:00-15:00",
+            "Prostor": "G2-P1 ALFA, pritličje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "PR SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "23.10.2025",
+            "Ura": "15:00-17:00",
+            "Prostor": "A-306",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "PETER KOKOL",
+            "Opis": "PR RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "23.10.2025",
+            "Ura": "17:00-19:00",
+            "Prostor": "(RU) F-104",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "23.10.2025",
+            "Ura": "19:00-21:00",
+            "Prostor": "(RU) F-104",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "24.10.2025",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "24.10.2025",
+            "Ura": "09:00-11:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "24.10.2025",
+            "Ura": "13:00-15:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "27.10.2025",
+            "Ura": "12:00-14:00",
+            "Prostor": "E-105",
+            "Skupina": "MAG 1 RIT, MAG 2 TK",
+            "Izvajalec": "ŠTEFAN KOHEK",
+            "Opis": "PR RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "27.10.2025",
+            "Ura": "14:00-16:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "PR DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "27.10.2025",
+            "Ura": "18:00-20:00",
+            "Prostor": "G3-laboratorij Ada, 1. nadstropje",
+            "Skupina": "MAG 1 RIT RV 5",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "28.10.2025",
+            "Ura": "11:00-13:00",
+            "Prostor": "G2-P2 BETA, pritličje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "DAMJAN STRNAD",
+            "Opis": "PR IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "28.10.2025",
+            "Ura": "13:00-15:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "28.10.2025",
+            "Ura": "15:00-17:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "28.10.2025",
+            "Ura": "17:00-19:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "28.10.2025",
+            "Ura": "19:00-21:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "29.10.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "29.10.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 4, MAG 2 TK",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "29.10.2025",
+            "Ura": "12:00-14:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "29.10.2025",
+            "Ura": "12:00-14:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "29.10.2025",
+            "Ura": "14:00-16:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "PR RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "29.10.2025",
+            "Ura": "16:00-18:00",
+            "Prostor": "G3-amfiteater Gauss, klet",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "29.10.2025",
+            "Ura": "16:00-18:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "29.10.2025",
+            "Ura": "18:00-20:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "30.10.2025",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-103 b",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": ". DEMONSTRATOR",
+            "Opis": "RV IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "30.10.2025",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-103 a",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "ŠTEFAN KOHEK",
+            "Opis": "RV IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "30.10.2025",
+            "Ura": "09:00-11:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "30.10.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) G3-laboratorij Lumiere, klet",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "30.10.2025",
+            "Ura": "11:00-13:00",
+            "Prostor": "(RU) C-202",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "30.10.2025",
+            "Ura": "11:00-13:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "30.10.2025",
+            "Ura": "13:00-15:00",
+            "Prostor": "G2-P1 ALFA, pritličje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "PR SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "30.10.2025",
+            "Ura": "15:00-17:00",
+            "Prostor": "A-306",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "PETER KOKOL",
+            "Opis": "PR RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "30.10.2025",
+            "Ura": "17:00-19:00",
+            "Prostor": "(RU) F-104",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "30.10.2025",
+            "Ura": "19:00-21:00",
+            "Prostor": "(RU) F-104",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "03.11.2025",
+            "Ura": "12:00-14:00",
+            "Prostor": "E-105",
+            "Skupina": "MAG 1 RIT, MAG 2 TK",
+            "Izvajalec": "ŠTEFAN KOHEK",
+            "Opis": "PR RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "03.11.2025",
+            "Ura": "14:00-16:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "PR DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "03.11.2025",
+            "Ura": "18:00-20:00",
+            "Prostor": "G3-laboratorij Ada, 1. nadstropje",
+            "Skupina": "MAG 1 RIT RV 5",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "04.11.2025",
+            "Ura": "11:00-13:00",
+            "Prostor": "G2-P2 BETA, pritličje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "DAMJAN STRNAD",
+            "Opis": "PR IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "04.11.2025",
+            "Ura": "13:00-15:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "04.11.2025",
+            "Ura": "15:00-17:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "04.11.2025",
+            "Ura": "17:00-19:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "04.11.2025",
+            "Ura": "19:00-21:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "05.11.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "05.11.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 4, MAG 2 TK",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "05.11.2025",
+            "Ura": "12:00-14:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "05.11.2025",
+            "Ura": "12:00-14:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "05.11.2025",
+            "Ura": "14:00-16:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "PR RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "05.11.2025",
+            "Ura": "16:00-18:00",
+            "Prostor": "G3-amfiteater Gauss, klet",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "05.11.2025",
+            "Ura": "16:00-18:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "05.11.2025",
+            "Ura": "18:00-20:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "06.11.2025",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-103 b",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": ". DEMONSTRATOR",
+            "Opis": "RV IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "06.11.2025",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-103 a",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "ŠTEFAN KOHEK",
+            "Opis": "RV IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "06.11.2025",
+            "Ura": "09:00-11:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "06.11.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) G3-laboratorij Lumiere, klet",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "06.11.2025",
+            "Ura": "11:00-13:00",
+            "Prostor": "(RU) C-202",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "06.11.2025",
+            "Ura": "11:00-13:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "06.11.2025",
+            "Ura": "13:00-15:00",
+            "Prostor": "G2-P1 ALFA, pritličje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "PR SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "06.11.2025",
+            "Ura": "15:00-17:00",
+            "Prostor": "A-306",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "PETER KOKOL",
+            "Opis": "PR RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "06.11.2025",
+            "Ura": "17:00-19:00",
+            "Prostor": "(RU) F-104",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "06.11.2025",
+            "Ura": "19:00-21:00",
+            "Prostor": "(RU) F-104",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "07.11.2025",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "07.11.2025",
+            "Ura": "09:00-11:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "07.11.2025",
+            "Ura": "13:00-15:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "10.11.2025",
+            "Ura": "12:00-14:00",
+            "Prostor": "E-105",
+            "Skupina": "MAG 1 RIT, MAG 2 TK",
+            "Izvajalec": "ŠTEFAN KOHEK",
+            "Opis": "PR RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "10.11.2025",
+            "Ura": "14:00-16:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "PR DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "10.11.2025",
+            "Ura": "18:00-21:00",
+            "Prostor": "G3-laboratorij Ada, 1. nadstropje",
+            "Skupina": "MAG 1 RIT RV 5",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "11.11.2025",
+            "Ura": "11:00-13:00",
+            "Prostor": "G2-P2 BETA, pritličje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "DAMJAN STRNAD",
+            "Opis": "PR IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "11.11.2025",
+            "Ura": "13:00-15:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "11.11.2025",
+            "Ura": "15:00-17:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "11.11.2025",
+            "Ura": "17:00-19:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "11.11.2025",
+            "Ura": "19:00-21:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "12.11.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "12.11.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 4, MAG 2 TK",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "12.11.2025",
+            "Ura": "12:00-14:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "12.11.2025",
+            "Ura": "12:00-14:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "12.11.2025",
+            "Ura": "14:00-16:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "PR RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "12.11.2025",
+            "Ura": "16:00-18:00",
+            "Prostor": "G3-amfiteater Gauss, klet",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "12.11.2025",
+            "Ura": "16:00-18:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "12.11.2025",
+            "Ura": "18:00-20:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "13.11.2025",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-103 b",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": ". DEMONSTRATOR",
+            "Opis": "RV IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "13.11.2025",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-103 a",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "ŠTEFAN KOHEK",
+            "Opis": "RV IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "13.11.2025",
+            "Ura": "09:00-11:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "13.11.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) G3-laboratorij Lumiere, klet",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "13.11.2025",
+            "Ura": "11:00-13:00",
+            "Prostor": "(RU) C-202",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "13.11.2025",
+            "Ura": "11:00-13:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "13.11.2025",
+            "Ura": "13:00-15:00",
+            "Prostor": "G2-P1 ALFA, pritličje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "PR SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "13.11.2025",
+            "Ura": "15:00-17:00",
+            "Prostor": "A-306",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "PETER KOKOL",
+            "Opis": "PR RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "13.11.2025",
+            "Ura": "17:00-19:00",
+            "Prostor": "(RU) F-104",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "13.11.2025",
+            "Ura": "19:00-21:00",
+            "Prostor": "(RU) F-104",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "14.11.2025",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "14.11.2025",
+            "Ura": "09:00-11:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "14.11.2025",
+            "Ura": "13:00-15:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "17.11.2025",
+            "Ura": "12:00-14:00",
+            "Prostor": "E-105",
+            "Skupina": "MAG 1 RIT, MAG 2 TK",
+            "Izvajalec": "ŠTEFAN KOHEK",
+            "Opis": "PR RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "17.11.2025",
+            "Ura": "14:00-16:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "PR DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "17.11.2025",
+            "Ura": "16:00-18:00",
+            "Prostor": "G2-P3 GAMA, 2. nadstropje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "PR SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "17.11.2025",
+            "Ura": "18:00-21:00",
+            "Prostor": "G3-laboratorij Ada, 1. nadstropje",
+            "Skupina": "MAG 1 RIT RV 5",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "18.11.2025",
+            "Ura": "11:00-13:00",
+            "Prostor": "G2-P2 BETA, pritličje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "DAMJAN STRNAD",
+            "Opis": "PR IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "18.11.2025",
+            "Ura": "13:00-15:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "18.11.2025",
+            "Ura": "15:00-17:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "18.11.2025",
+            "Ura": "17:00-19:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "18.11.2025",
+            "Ura": "19:00-21:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "19.11.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "19.11.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 4, MAG 2 TK",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "19.11.2025",
+            "Ura": "12:00-14:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "19.11.2025",
+            "Ura": "12:00-14:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "19.11.2025",
+            "Ura": "14:00-16:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "PR RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "19.11.2025",
+            "Ura": "16:00-18:00",
+            "Prostor": "G3-amfiteater Gauss, klet",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "19.11.2025",
+            "Ura": "16:00-18:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "19.11.2025",
+            "Ura": "18:00-20:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "20.11.2025",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-103 b",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": ". DEMONSTRATOR",
+            "Opis": "RV IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "20.11.2025",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-103 a",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "ŠTEFAN KOHEK",
+            "Opis": "RV IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "20.11.2025",
+            "Ura": "09:00-11:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "20.11.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) G3-laboratorij Lumiere, klet",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "20.11.2025",
+            "Ura": "11:00-13:00",
+            "Prostor": "(RU) C-202",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "20.11.2025",
+            "Ura": "11:00-13:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "20.11.2025",
+            "Ura": "17:00-19:00",
+            "Prostor": "(RU) F-104",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "20.11.2025",
+            "Ura": "19:00-21:00",
+            "Prostor": "(RU) F-104",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "21.11.2025",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "21.11.2025",
+            "Ura": "09:00-11:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "21.11.2025",
+            "Ura": "13:00-15:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "21.11.2025",
+            "Ura": "15:00-17:00",
+            "Prostor": "G2-P3 GAMA, 2. nadstropje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "PETER KOKOL",
+            "Opis": "PR RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "24.11.2025",
+            "Ura": "12:00-14:00",
+            "Prostor": "E-105",
+            "Skupina": "MAG 1 RIT, MAG 2 TK",
+            "Izvajalec": "ŠTEFAN KOHEK",
+            "Opis": "PR RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "24.11.2025",
+            "Ura": "14:00-16:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "PR DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "24.11.2025",
+            "Ura": "16:00-18:00",
+            "Prostor": "E-105",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "PR SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "25.11.2025",
+            "Ura": "11:00-13:00",
+            "Prostor": "G2-P2 BETA, pritličje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "DAMJAN STRNAD",
+            "Opis": "PR IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "25.11.2025",
+            "Ura": "13:00-15:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "25.11.2025",
+            "Ura": "15:00-17:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "25.11.2025",
+            "Ura": "17:00-19:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "25.11.2025",
+            "Ura": "19:00-21:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "26.11.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "26.11.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 4, MAG 2 TK",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "26.11.2025",
+            "Ura": "12:00-14:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "26.11.2025",
+            "Ura": "12:00-14:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "26.11.2025",
+            "Ura": "14:00-16:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "PR RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "26.11.2025",
+            "Ura": "16:00-18:00",
+            "Prostor": "G3-amfiteater Gauss, klet",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "26.11.2025",
+            "Ura": "16:00-18:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "26.11.2025",
+            "Ura": "16:00-18:00",
+            "Prostor": "G2-seminarska soba, 2. nad.",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "26.11.2025",
+            "Ura": "18:00-20:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "27.11.2025",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-103 b",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": ". DEMONSTRATOR",
+            "Opis": "RV IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "27.11.2025",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-103 a",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "ŠTEFAN KOHEK",
+            "Opis": "RV IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "27.11.2025",
+            "Ura": "09:00-11:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "27.11.2025",
+            "Ura": "11:00-13:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "27.11.2025",
+            "Ura": "17:00-19:00",
+            "Prostor": "(RU) F-104",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "27.11.2025",
+            "Ura": "19:00-21:00",
+            "Prostor": "(RU) F-104",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "28.11.2025",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "28.11.2025",
+            "Ura": "09:00-11:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "28.11.2025",
+            "Ura": "13:00-15:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "28.11.2025",
+            "Ura": "15:00-17:00",
+            "Prostor": "A-306",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "PETER KOKOL",
+            "Opis": "PR RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "01.12.2025",
+            "Ura": "12:00-14:00",
+            "Prostor": "E-105",
+            "Skupina": "MAG 1 RIT, MAG 2 TK",
+            "Izvajalec": "ŠTEFAN KOHEK",
+            "Opis": "PR RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "01.12.2025",
+            "Ura": "14:00-16:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "PR DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "01.12.2025",
+            "Ura": "18:00-20:00",
+            "Prostor": "G3-laboratorij Ada, 1. nadstropje",
+            "Skupina": "MAG 1 RIT RV 5",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "02.12.2025",
+            "Ura": "11:00-13:00",
+            "Prostor": "G2-P2 BETA, pritličje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "DAMJAN STRNAD",
+            "Opis": "PR IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "02.12.2025",
+            "Ura": "13:00-15:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "02.12.2025",
+            "Ura": "15:00-17:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "02.12.2025",
+            "Ura": "17:00-19:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "02.12.2025",
+            "Ura": "19:00-21:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "03.12.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "03.12.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 4, MAG 2 TK",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "03.12.2025",
+            "Ura": "12:00-14:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "03.12.2025",
+            "Ura": "12:00-14:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "03.12.2025",
+            "Ura": "14:00-16:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "PR RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "03.12.2025",
+            "Ura": "16:00-18:00",
+            "Prostor": "G3-amfiteater Gauss, klet",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "03.12.2025",
+            "Ura": "16:00-18:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "03.12.2025",
+            "Ura": "18:00-20:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "04.12.2025",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-103 b",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": ". DEMONSTRATOR",
+            "Opis": "RV IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "04.12.2025",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-103 a",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "ŠTEFAN KOHEK",
+            "Opis": "RV IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "04.12.2025",
+            "Ura": "09:00-11:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "04.12.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) G3-laboratorij Lumiere, klet",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "04.12.2025",
+            "Ura": "11:00-13:00",
+            "Prostor": "(RU) C-202",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "04.12.2025",
+            "Ura": "11:00-13:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "04.12.2025",
+            "Ura": "13:00-15:00",
+            "Prostor": "G2-P1 ALFA, pritličje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "PR SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "04.12.2025",
+            "Ura": "15:00-17:00",
+            "Prostor": "A-306",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "PETER KOKOL",
+            "Opis": "PR RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "04.12.2025",
+            "Ura": "17:00-19:00",
+            "Prostor": "(RU) F-104",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "04.12.2025",
+            "Ura": "19:00-21:00",
+            "Prostor": "(RU) F-104",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "05.12.2025",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "05.12.2025",
+            "Ura": "09:00-11:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "05.12.2025",
+            "Ura": "13:00-15:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "08.12.2025",
+            "Ura": "12:00-14:00",
+            "Prostor": "E-105",
+            "Skupina": "MAG 1 RIT, MAG 2 TK",
+            "Izvajalec": "ŠTEFAN KOHEK",
+            "Opis": "PR RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "08.12.2025",
+            "Ura": "14:00-16:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "PR DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "08.12.2025",
+            "Ura": "18:00-20:00",
+            "Prostor": "G3-laboratorij Ada, 1. nadstropje",
+            "Skupina": "MAG 1 RIT RV 5",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "09.12.2025",
+            "Ura": "11:00-13:00",
+            "Prostor": "G2-P2 BETA, pritličje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "DAMJAN STRNAD",
+            "Opis": "PR IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "09.12.2025",
+            "Ura": "13:00-15:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "09.12.2025",
+            "Ura": "15:00-17:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "09.12.2025",
+            "Ura": "17:00-19:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "09.12.2025",
+            "Ura": "19:00-21:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "10.12.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "10.12.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 4, MAG 2 TK",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "10.12.2025",
+            "Ura": "12:00-14:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "10.12.2025",
+            "Ura": "12:00-14:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "10.12.2025",
+            "Ura": "14:00-16:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "PR RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "10.12.2025",
+            "Ura": "16:00-18:00",
+            "Prostor": "G3-amfiteater Gauss, klet",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "10.12.2025",
+            "Ura": "16:00-18:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "10.12.2025",
+            "Ura": "18:00-20:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "11.12.2025",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-103 b",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": ". DEMONSTRATOR",
+            "Opis": "RV IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "11.12.2025",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-103 a",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "ŠTEFAN KOHEK",
+            "Opis": "RV IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "11.12.2025",
+            "Ura": "09:00-11:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "11.12.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) G3-laboratorij Lumiere, klet",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "11.12.2025",
+            "Ura": "11:00-13:00",
+            "Prostor": "(RU) C-202",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "11.12.2025",
+            "Ura": "11:00-13:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "11.12.2025",
+            "Ura": "13:00-15:00",
+            "Prostor": "G2-P1 ALFA, pritličje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "PR SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "11.12.2025",
+            "Ura": "15:00-17:00",
+            "Prostor": "A-306",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "PETER KOKOL",
+            "Opis": "PR RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "11.12.2025",
+            "Ura": "17:00-19:00",
+            "Prostor": "(RU) F-104",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "11.12.2025",
+            "Ura": "19:00-21:00",
+            "Prostor": "(RU) F-104",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "12.12.2025",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "12.12.2025",
+            "Ura": "09:00-11:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "12.12.2025",
+            "Ura": "13:00-15:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "15.12.2025",
+            "Ura": "12:00-14:00",
+            "Prostor": "E-105",
+            "Skupina": "MAG 1 RIT, MAG 2 TK",
+            "Izvajalec": "ŠTEFAN KOHEK",
+            "Opis": "PR RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "15.12.2025",
+            "Ura": "14:00-16:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "PR DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "15.12.2025",
+            "Ura": "18:00-20:00",
+            "Prostor": "G3-laboratorij Ada, 1. nadstropje",
+            "Skupina": "MAG 1 RIT RV 5",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "16.12.2025",
+            "Ura": "11:00-13:00",
+            "Prostor": "G2-P2 BETA, pritličje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "DAMJAN STRNAD",
+            "Opis": "PR IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "16.12.2025",
+            "Ura": "13:00-15:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "16.12.2025",
+            "Ura": "15:00-17:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "16.12.2025",
+            "Ura": "17:00-19:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "16.12.2025",
+            "Ura": "19:00-21:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "17.12.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "17.12.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 4, MAG 2 TK",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "17.12.2025",
+            "Ura": "12:00-14:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "17.12.2025",
+            "Ura": "12:00-14:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "17.12.2025",
+            "Ura": "14:00-16:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "PR RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "17.12.2025",
+            "Ura": "16:00-18:00",
+            "Prostor": "G3-amfiteater Gauss, klet",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "17.12.2025",
+            "Ura": "16:00-18:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "17.12.2025",
+            "Ura": "18:00-20:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "18.12.2025",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-103 b",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": ". DEMONSTRATOR",
+            "Opis": "RV IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "18.12.2025",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-103 a",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "ŠTEFAN KOHEK",
+            "Opis": "RV IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "18.12.2025",
+            "Ura": "09:00-11:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "18.12.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) G3-laboratorij Lumiere, klet",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "18.12.2025",
+            "Ura": "11:00-13:00",
+            "Prostor": "(RU) C-202",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "18.12.2025",
+            "Ura": "11:00-13:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "18.12.2025",
+            "Ura": "13:00-15:00",
+            "Prostor": "G2-P1 ALFA, pritličje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "PR SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "18.12.2025",
+            "Ura": "15:00-17:00",
+            "Prostor": "A-306",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "PETER KOKOL",
+            "Opis": "PR RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "18.12.2025",
+            "Ura": "17:00-19:00",
+            "Prostor": "(RU) F-104",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "18.12.2025",
+            "Ura": "19:00-21:00",
+            "Prostor": "(RU) F-104",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "19.12.2025",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "19.12.2025",
+            "Ura": "09:00-11:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "19.12.2025",
+            "Ura": "13:00-15:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "22.12.2025",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "22.12.2025",
+            "Ura": "12:00-14:00",
+            "Prostor": "E-105",
+            "Skupina": "MAG 1 RIT, MAG 2 TK",
+            "Izvajalec": "ŠTEFAN KOHEK",
+            "Opis": "PR RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "22.12.2025",
+            "Ura": "14:00-16:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "PR DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "23.12.2025",
+            "Ura": "11:00-13:00",
+            "Prostor": "G2-P2 BETA, pritličje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "DAMJAN STRNAD",
+            "Opis": "PR IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "05.01.2026",
+            "Ura": "12:00-14:00",
+            "Prostor": "E-105",
+            "Skupina": "MAG 1 RIT, MAG 2 TK",
+            "Izvajalec": "ŠTEFAN KOHEK",
+            "Opis": "PR RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "05.01.2026",
+            "Ura": "14:00-16:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "PR DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "05.01.2026",
+            "Ura": "18:00-20:00",
+            "Prostor": "G3-laboratorij Ada, 1. nadstropje",
+            "Skupina": "MAG 1 RIT RV 5",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "06.01.2026",
+            "Ura": "11:00-13:00",
+            "Prostor": "G2-P2 BETA, pritličje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "DAMJAN STRNAD",
+            "Opis": "PR IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "06.01.2026",
+            "Ura": "13:00-15:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "06.01.2026",
+            "Ura": "15:00-17:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "06.01.2026",
+            "Ura": "17:00-19:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "06.01.2026",
+            "Ura": "19:00-21:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "07.01.2026",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "07.01.2026",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 4, MAG 2 TK",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "07.01.2026",
+            "Ura": "12:00-14:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "07.01.2026",
+            "Ura": "12:00-14:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "07.01.2026",
+            "Ura": "14:00-16:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "PR RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "07.01.2026",
+            "Ura": "16:00-18:00",
+            "Prostor": "G3-amfiteater Gauss, klet",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "07.01.2026",
+            "Ura": "16:00-18:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "07.01.2026",
+            "Ura": "18:00-20:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "08.01.2026",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-103 b",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": ". DEMONSTRATOR",
+            "Opis": "RV IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "08.01.2026",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-103 a",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "ŠTEFAN KOHEK",
+            "Opis": "RV IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "08.01.2026",
+            "Ura": "09:00-11:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "08.01.2026",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) G3-laboratorij Lumiere, klet",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "08.01.2026",
+            "Ura": "11:00-13:00",
+            "Prostor": "(RU) C-202",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "08.01.2026",
+            "Ura": "11:00-13:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "08.01.2026",
+            "Ura": "13:00-15:00",
+            "Prostor": "G2-P1 ALFA, pritličje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "PR SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "08.01.2026",
+            "Ura": "15:00-17:00",
+            "Prostor": "A-306",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "PETER KOKOL",
+            "Opis": "PR RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "08.01.2026",
+            "Ura": "17:00-19:00",
+            "Prostor": "(RU) F-104",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "08.01.2026",
+            "Ura": "19:00-21:00",
+            "Prostor": "(RU) F-104",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "09.01.2026",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "09.01.2026",
+            "Ura": "09:00-11:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "09.01.2026",
+            "Ura": "13:00-15:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "12.01.2026",
+            "Ura": "12:00-14:00",
+            "Prostor": "E-105",
+            "Skupina": "MAG 1 RIT, MAG 2 TK",
+            "Izvajalec": "ŠTEFAN KOHEK",
+            "Opis": "PR RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "12.01.2026",
+            "Ura": "14:00-16:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "PR DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "12.01.2026",
+            "Ura": "18:00-20:00",
+            "Prostor": "G3-laboratorij Ada, 1. nadstropje",
+            "Skupina": "MAG 1 RIT RV 5",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "13.01.2026",
+            "Ura": "11:00-13:00",
+            "Prostor": "G2-P2 BETA, pritličje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "DAMJAN STRNAD",
+            "Opis": "PR IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "13.01.2026",
+            "Ura": "13:00-15:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "13.01.2026",
+            "Ura": "15:00-17:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "13.01.2026",
+            "Ura": "17:00-19:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "13.01.2026",
+            "Ura": "19:00-21:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "14.01.2026",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "14.01.2026",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 4, MAG 2 TK",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "14.01.2026",
+            "Ura": "12:00-14:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "14.01.2026",
+            "Ura": "12:00-14:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "14.01.2026",
+            "Ura": "14:00-16:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "PR RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "14.01.2026",
+            "Ura": "16:00-18:00",
+            "Prostor": "G3-amfiteater Gauss, klet",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "14.01.2026",
+            "Ura": "16:00-18:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "14.01.2026",
+            "Ura": "18:00-20:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "15.01.2026",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-103 b",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": ". DEMONSTRATOR",
+            "Opis": "RV IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "15.01.2026",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-103 a",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "ŠTEFAN KOHEK",
+            "Opis": "RV IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "15.01.2026",
+            "Ura": "09:00-11:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "15.01.2026",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) G3-laboratorij Lumiere, klet",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "15.01.2026",
+            "Ura": "11:00-13:00",
+            "Prostor": "(RU) C-202",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "15.01.2026",
+            "Ura": "11:00-13:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "15.01.2026",
+            "Ura": "13:00-15:00",
+            "Prostor": "G2-P1 ALFA, pritličje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "PR SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "15.01.2026",
+            "Ura": "15:00-17:00",
+            "Prostor": "A-306",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "PETER KOKOL",
+            "Opis": "PR RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "15.01.2026",
+            "Ura": "17:00-19:00",
+            "Prostor": "(RU) F-104",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "15.01.2026",
+            "Ura": "19:00-21:00",
+            "Prostor": "(RU) F-104",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "16.01.2026",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "16.01.2026",
+            "Ura": "09:00-11:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "16.01.2026",
+            "Ura": "13:00-15:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "19.01.2026",
+            "Ura": "12:00-14:00",
+            "Prostor": "E-105",
+            "Skupina": "MAG 1 RIT, MAG 2 TK",
+            "Izvajalec": "ŠTEFAN KOHEK",
+            "Opis": "PR RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "19.01.2026",
+            "Ura": "14:00-16:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "PR DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Ponedeljek",
+            "Datum": "19.01.2026",
+            "Ura": "18:00-20:00",
+            "Prostor": "G3-laboratorij Ada, 1. nadstropje",
+            "Skupina": "MAG 1 RIT RV 5",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "20.01.2026",
+            "Ura": "11:00-13:00",
+            "Prostor": "G2-P2 BETA, pritličje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "DAMJAN STRNAD",
+            "Opis": "PR IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "20.01.2026",
+            "Ura": "13:00-15:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "20.01.2026",
+            "Ura": "15:00-17:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "20.01.2026",
+            "Ura": "17:00-19:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Torek",
+            "Datum": "20.01.2026",
+            "Ura": "19:00-21:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "21.01.2026",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "21.01.2026",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 4, MAG 2 TK",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "21.01.2026",
+            "Ura": "12:00-14:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "21.01.2026",
+            "Ura": "12:00-14:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "21.01.2026",
+            "Ura": "14:00-16:00",
+            "Prostor": "G2-P4 DELTA, 2. nadstropje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "PR RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "21.01.2026",
+            "Ura": "16:00-18:00",
+            "Prostor": "G3-amfiteater Gauss, klet",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "21.01.2026",
+            "Ura": "16:00-18:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Sreda",
+            "Datum": "21.01.2026",
+            "Ura": "18:00-20:00",
+            "Prostor": "(RU) G-219",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "ALEŠ ZAMUDA",
+            "Opis": "RV RAČUNANJE V OBLAKU"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "22.01.2026",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-103 b",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": ". DEMONSTRATOR",
+            "Opis": "RV IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "22.01.2026",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-103 a",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "ŠTEFAN KOHEK",
+            "Opis": "RV IZBRANI ALGORITMI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "22.01.2026",
+            "Ura": "09:00-11:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "22.01.2026",
+            "Ura": "10:00-12:00",
+            "Prostor": "(RU) G3-laboratorij Lumiere, klet",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "22.01.2026",
+            "Ura": "11:00-13:00",
+            "Prostor": "(RU) C-202",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "GREGA ŽLAHTIČ",
+            "Opis": "RV RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "22.01.2026",
+            "Ura": "11:00-13:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 2",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "22.01.2026",
+            "Ura": "13:00-15:00",
+            "Prostor": "G2-P1 ALFA, pritličje",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "PR SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "22.01.2026",
+            "Ura": "15:00-17:00",
+            "Prostor": "A-306",
+            "Skupina": "MAG 1 RIT",
+            "Izvajalec": "PETER KOKOL",
+            "Opis": "PR RAZVOJ IN UPRAVLJANJE PROGRAMSKIH SISTEMOV"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "22.01.2026",
+            "Ura": "17:00-19:00",
+            "Prostor": "(RU) F-104",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Četrtek",
+            "Datum": "22.01.2026",
+            "Ura": "19:00-21:00",
+            "Prostor": "(RU) F-104",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "NIKO LUKAČ",
+            "Opis": "RV SPLETNE TEHNOLOGIJE"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "23.01.2026",
+            "Ura": "07:00-09:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 3",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "23.01.2026",
+            "Ura": "09:00-11:00",
+            "Prostor": "(RU) F-102",
+            "Skupina": "MAG 1 RIT RV 4",
+            "Izvajalec": "TOMAŽ KOSAR",
+            "Opis": "RV DOMENSKO SPECIFIČNI MODELIRNI JEZIKI"
+        },
+        {
+            "Dan": "Petek",
+            "Datum": "23.01.2026",
+            "Ura": "13:00-15:00",
+            "Prostor": "(RU) E-110",
+            "Skupina": "MAG 1 RIT RV 1",
+            "Izvajalec": "DAVID JESENKO",
+            "Opis": "RV RAČUNALNIŠKA MULTIMEDIA"
+        }
+    ]
+}
