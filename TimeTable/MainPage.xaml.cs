@@ -385,13 +385,15 @@ namespace TimeTable
                 //Trace.WriteLine(d1 +" " + minDate +" "+maxDate+" "+ (d1 >= minDate)+" "+(d1 < maxDate));
                 if (DateTime.TryParseExact(classEntry.Datum, "dd.MM.yyyy", CultureInfo.InvariantCulture, DateTimeStyles.None, out DateTime classDate) && classDate >= minDate && classDate < maxDate)
                 {
-                    if (!Preferences.ContainsKey(classEntry.Skupina))
+                    
+                    string key = classEntry.Opis + " " + classEntry.Skupina;
+                    if (!Preferences.ContainsKey(key))
                     {
                         availableClasses.Add(classEntry);
-                        Preferences.Set(classEntry.Skupina, true);
+                        Preferences.Set(key, true);
                         continue;
                     }
-                    if (Preferences.Get(classEntry.Skupina, false))
+                    if (Preferences.Get(key, false))
                     {
                         availableClasses.Add(classEntry);
                     }
