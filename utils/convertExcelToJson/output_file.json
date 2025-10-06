@@ -1,0 +1,2090 @@
+[
+  {
+    "Dan": "Torek",
+    "Datum": "27.02.2024",
+    "Ura": "08:00-11:00",
+    "Prostor": "A-302",
+    "Opis": "SV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "MATEJ KRAMBERGER"
+  },
+  {
+    "Dan": "Torek",
+    "Datum": "27.02.2024",
+    "Ura": "11:00-13:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2, RIT 3 UN",
+    "Izvajalec": "DAMJAN STRNAD"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "28.02.2024",
+    "Ura": "10:00-12:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "ALE\u0160 HOLOBAR"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "28.02.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "A-306",
+    "Opis": "SV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2, RIT 3 UN",
+    "Izvajalec": "MLADEN BOROVI\u010c"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "29.02.2024",
+    "Ura": "13:00-15:00",
+    "Prostor": "G2-P01, pritli\u010dje",
+    "Opis": "PR SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "ALE\u0160 HOLOBAR"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "29.02.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "G2-P01, pritli\u010dje",
+    "Opis": "SV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "Petek",
+    "Datum": "01.03.2024",
+    "Ura": "09:00-11:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "BORUT \u017dALIK"
+  },
+  {
+    "Dan": "Petek",
+    "Datum": "01.03.2024",
+    "Ura": "11:00-14:00",
+    "Prostor": "A-306",
+    "Opis": "SV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "MATJA\u017d DIVJAK"
+  },
+  {
+    "Dan": "Ponedeljek",
+    "Datum": "04.03.2024",
+    "Ura": "09:00-12:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MATJA\u017d DIVJAK"
+  },
+  {
+    "Dan": "Ponedeljek",
+    "Datum": "04.03.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2 RV 3",
+    "Izvajalec": "MATJA\u017d DIVJAK, LEON KUTO\u0160"
+  },
+  {
+    "Dan": "Ponedeljek",
+    "Datum": "04.03.2024",
+    "Ura": "17:00-20:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 3",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "Torek",
+    "Datum": "05.03.2024",
+    "Ura": "11:00-13:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2, RIT 3 UN",
+    "Izvajalec": "DAMJAN STRNAD"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "06.03.2024",
+    "Ura": "10:00-12:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "ALE\u0160 HOLOBAR"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "06.03.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MATJA\u017d DIVJAK"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "06.03.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "LEON KUTO\u0160"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "06.03.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "(RU) F-103\/a",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MLADEN BOROVI\u010c"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "06.03.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "(RU) F-103\/b",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 3, RIT 3 UN RV 1",
+    "Izvajalec": ". DEMONSTRATOR"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "07.03.2024",
+    "Ura": "07:00-10:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "07.03.2024",
+    "Ura": "10:00-13:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "07.03.2024",
+    "Ura": "13:00-15:00",
+    "Prostor": "G2-P01, pritli\u010dje",
+    "Opis": "PR SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "ALE\u0160 HOLOBAR"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "07.03.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 3",
+    "Izvajalec": "MATEJ KRAMBERGER"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "07.03.2024",
+    "Ura": "18:00-21:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "MATEJ KRAMBERGER"
+  },
+  {
+    "Dan": "Petek",
+    "Datum": "08.03.2024",
+    "Ura": "09:00-11:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "BORUT \u017dALIK"
+  },
+  {
+    "Dan": "Petek",
+    "Datum": "08.03.2024",
+    "Ura": "14:00-17:00",
+    "Prostor": "G3-amfiteater Gauss, klet",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "MLADEN BOROVI\u010c"
+  },
+  {
+    "Dan": "Ponedeljek",
+    "Datum": "11.03.2024",
+    "Ura": "09:00-12:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MATJA\u017d DIVJAK"
+  },
+  {
+    "Dan": "Ponedeljek",
+    "Datum": "11.03.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2 RV 3",
+    "Izvajalec": "MATJA\u017d DIVJAK, LEON KUTO\u0160"
+  },
+  {
+    "Dan": "Ponedeljek",
+    "Datum": "11.03.2024",
+    "Ura": "16:00-17:00",
+    "Prostor": "G2-P3 GAMA, 2. nad.",
+    "Opis": "SE PROJEKTNI PRAKTIKUM",
+    "Skupina": "RIT 2 UN - UP1, RIT 2 UN - UP2",
+    "Izvajalec": "ALE\u0160 HOLOBAR"
+  },
+  {
+    "Dan": "Ponedeljek",
+    "Datum": "11.03.2024",
+    "Ura": "17:00-20:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 3",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "Torek",
+    "Datum": "12.03.2024",
+    "Ura": "11:00-13:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2, RIT 3 UN",
+    "Izvajalec": "DAMJAN STRNAD"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "13.03.2024",
+    "Ura": "10:00-12:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "ALE\u0160 HOLOBAR"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "13.03.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MATJA\u017d DIVJAK"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "13.03.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "LEON KUTO\u0160"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "13.03.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "(RU) F-103\/a",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MLADEN BOROVI\u010c"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "13.03.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "(RU) F-103\/b",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 3, RIT 3 UN RV 1",
+    "Izvajalec": ". DEMONSTRATOR"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "14.03.2024",
+    "Ura": "07:00-10:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "14.03.2024",
+    "Ura": "10:00-13:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "14.03.2024",
+    "Ura": "13:00-15:00",
+    "Prostor": "G2-P01, pritli\u010dje",
+    "Opis": "PR SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "ALE\u0160 HOLOBAR"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "14.03.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 3",
+    "Izvajalec": "MATEJ KRAMBERGER"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "14.03.2024",
+    "Ura": "18:00-21:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "MATEJ KRAMBERGER"
+  },
+  {
+    "Dan": "Petek",
+    "Datum": "15.03.2024",
+    "Ura": "09:00-11:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "BORUT \u017dALIK"
+  },
+  {
+    "Dan": "Petek",
+    "Datum": "15.03.2024",
+    "Ura": "14:00-17:00",
+    "Prostor": "G3-amfiteater Gauss, klet",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "MLADEN BOROVI\u010c"
+  },
+  {
+    "Dan": "Ponedeljek",
+    "Datum": "18.03.2024",
+    "Ura": "09:00-12:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MATJA\u017d DIVJAK"
+  },
+  {
+    "Dan": "Ponedeljek",
+    "Datum": "18.03.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2 RV 3",
+    "Izvajalec": "MATJA\u017d DIVJAK, LEON KUTO\u0160"
+  },
+  {
+    "Dan": "Ponedeljek",
+    "Datum": "18.03.2024",
+    "Ura": "17:00-20:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 3",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "Torek",
+    "Datum": "19.03.2024",
+    "Ura": "08:00-11:00",
+    "Prostor": "G2-P06, pritli\u010dje",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "Torek",
+    "Datum": "19.03.2024",
+    "Ura": "11:00-13:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2, RIT 3 UN",
+    "Izvajalec": "DAMJAN STRNAD"
+  },
+  {
+    "Dan": "Torek",
+    "Datum": "19.03.2024",
+    "Ura": "14:00-17:00",
+    "Prostor": "G3-diplomska soba FERI, 1. nad.",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "20.03.2024",
+    "Ura": "10:00-12:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "ALE\u0160 HOLOBAR"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "20.03.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MATJA\u017d DIVJAK"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "20.03.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "LEON KUTO\u0160"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "20.03.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "(RU) F-103\/a",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MLADEN BOROVI\u010c"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "20.03.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "(RU) F-103\/b",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 3, RIT 3 UN RV 1",
+    "Izvajalec": ". DEMONSTRATOR"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "21.03.2024",
+    "Ura": "07:00-10:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "21.03.2024",
+    "Ura": "10:00-13:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "21.03.2024",
+    "Ura": "13:00-15:00",
+    "Prostor": "G2-P01, pritli\u010dje",
+    "Opis": "PR SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "ALE\u0160 HOLOBAR"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "21.03.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 3",
+    "Izvajalec": "MATEJ KRAMBERGER"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "21.03.2024",
+    "Ura": "18:00-21:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "MATEJ KRAMBERGER"
+  },
+  {
+    "Dan": "Petek",
+    "Datum": "22.03.2024",
+    "Ura": "09:00-11:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "BORUT \u017dALIK"
+  },
+  {
+    "Dan": "Petek",
+    "Datum": "22.03.2024",
+    "Ura": "14:00-17:00",
+    "Prostor": "G3-amfiteater Gauss, klet",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "MLADEN BOROVI\u010c"
+  },
+  {
+    "Dan": "Ponedeljek",
+    "Datum": "25.03.2024",
+    "Ura": "09:00-12:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MATJA\u017d DIVJAK"
+  },
+  {
+    "Dan": "Ponedeljek",
+    "Datum": "25.03.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2 RV 3",
+    "Izvajalec": "MATJA\u017d DIVJAK, LEON KUTO\u0160"
+  },
+  {
+    "Dan": "Ponedeljek",
+    "Datum": "25.03.2024",
+    "Ura": "17:00-20:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 3",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "Torek",
+    "Datum": "26.03.2024",
+    "Ura": "11:00-13:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2, RIT 3 UN",
+    "Izvajalec": "DAMJAN STRNAD"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "27.03.2024",
+    "Ura": "10:00-12:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "ALE\u0160 HOLOBAR"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "27.03.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MATJA\u017d DIVJAK"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "27.03.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "LEON KUTO\u0160"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "27.03.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "(RU) F-103\/a",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MLADEN BOROVI\u010c"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "27.03.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "(RU) F-103\/b",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 3, RIT 3 UN RV 1",
+    "Izvajalec": ". DEMONSTRATOR"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "28.03.2024",
+    "Ura": "07:00-10:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "28.03.2024",
+    "Ura": "10:00-13:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "28.03.2024",
+    "Ura": "13:00-15:00",
+    "Prostor": "G2-P01, pritli\u010dje",
+    "Opis": "PR SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "ALE\u0160 HOLOBAR"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "28.03.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 3",
+    "Izvajalec": "MATEJ KRAMBERGER"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "28.03.2024",
+    "Ura": "18:00-21:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "MATEJ KRAMBERGER"
+  },
+  {
+    "Dan": "Petek",
+    "Datum": "29.03.2024",
+    "Ura": "09:00-11:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "BORUT \u017dALIK"
+  },
+  {
+    "Dan": "Petek",
+    "Datum": "29.03.2024",
+    "Ura": "11:00-14:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "Petek",
+    "Datum": "29.03.2024",
+    "Ura": "14:00-17:00",
+    "Prostor": "G3-amfiteater Gauss, klet",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "MLADEN BOROVI\u010c"
+  },
+  {
+    "Dan": "Torek",
+    "Datum": "02.04.2024",
+    "Ura": "07:00-10:00",
+    "Prostor": "G2-P06, pritli\u010dje",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 3",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "Torek",
+    "Datum": "02.04.2024",
+    "Ura": "11:00-13:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2, RIT 3 UN",
+    "Izvajalec": "DAMJAN STRNAD"
+  },
+  {
+    "Dan": "Torek",
+    "Datum": "02.04.2024",
+    "Ura": "13:00-15:00",
+    "Prostor": "G2-P02, pritli\u010dje",
+    "Opis": "PR SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "ALE\u0160 HOLOBAR"
+  },
+  {
+    "Dan": "Torek",
+    "Datum": "02.04.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "G2-seminarska soba, 2. nad.",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "MATEJ KRAMBERGER"
+  },
+  {
+    "Dan": "Torek",
+    "Datum": "02.04.2024",
+    "Ura": "18:00-21:00",
+    "Prostor": "G2-seminarska soba, 2. nad.",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 3",
+    "Izvajalec": "MATEJ KRAMBERGER"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "03.04.2024",
+    "Ura": "10:00-12:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "ALE\u0160 HOLOBAR"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "03.04.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MATJA\u017d DIVJAK"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "03.04.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "LEON KUTO\u0160"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "03.04.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "(RU) F-103\/a",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MLADEN BOROVI\u010c"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "03.04.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "(RU) F-103\/b",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 3, RIT 3 UN RV 1",
+    "Izvajalec": ". DEMONSTRATOR"
+  },
+  {
+    "Dan": "Petek",
+    "Datum": "05.04.2024",
+    "Ura": "09:00-11:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "BORUT \u017dALIK"
+  },
+  {
+    "Dan": "Petek",
+    "Datum": "05.04.2024",
+    "Ura": "14:00-17:00",
+    "Prostor": "G3-amfiteater Gauss, klet",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "MLADEN BOROVI\u010c"
+  },
+  {
+    "Dan": "Petek",
+    "Datum": "05.04.2024",
+    "Ura": "17:00-20:00",
+    "Prostor": "(RU) F-102",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "Ponedeljek",
+    "Datum": "08.04.2024",
+    "Ura": "09:00-12:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MATJA\u017d DIVJAK"
+  },
+  {
+    "Dan": "Ponedeljek",
+    "Datum": "08.04.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2 RV 3",
+    "Izvajalec": "MATJA\u017d DIVJAK, LEON KUTO\u0160"
+  },
+  {
+    "Dan": "Ponedeljek",
+    "Datum": "08.04.2024",
+    "Ura": "17:00-20:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 3",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "Torek",
+    "Datum": "09.04.2024",
+    "Ura": "11:00-13:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2, RIT 3 UN",
+    "Izvajalec": "DAMJAN STRNAD"
+  },
+  {
+    "Dan": "Torek",
+    "Datum": "09.04.2024",
+    "Ura": "13:00-16:00",
+    "Prostor": "G2-P02, pritli\u010dje",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 3",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "10.04.2024",
+    "Ura": "10:00-12:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "ALE\u0160 HOLOBAR"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "10.04.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MATJA\u017d DIVJAK"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "10.04.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "LEON KUTO\u0160"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "10.04.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "(RU) F-103\/a",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MLADEN BOROVI\u010c"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "10.04.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "(RU) F-103\/b",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 3, RIT 3 UN RV 1",
+    "Izvajalec": ". DEMONSTRATOR"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "11.04.2024",
+    "Ura": "07:00-10:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "11.04.2024",
+    "Ura": "10:00-13:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "11.04.2024",
+    "Ura": "13:00-15:00",
+    "Prostor": "G2-P01, pritli\u010dje",
+    "Opis": "PR SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "ALE\u0160 HOLOBAR"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "11.04.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 3",
+    "Izvajalec": "MATEJ KRAMBERGER"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "11.04.2024",
+    "Ura": "18:00-21:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "MATEJ KRAMBERGER"
+  },
+  {
+    "Dan": "Petek",
+    "Datum": "12.04.2024",
+    "Ura": "09:00-11:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "BORUT \u017dALIK"
+  },
+  {
+    "Dan": "Petek",
+    "Datum": "12.04.2024",
+    "Ura": "11:00-14:00",
+    "Prostor": "G3-laboratorij Turing, pritli\u010dje",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "Petek",
+    "Datum": "12.04.2024",
+    "Ura": "14:00-17:00",
+    "Prostor": "G3-amfiteater Gauss, klet",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "MLADEN BOROVI\u010c"
+  },
+  {
+    "Dan": "Petek",
+    "Datum": "12.04.2024",
+    "Ura": "17:00-20:00",
+    "Prostor": "(RU) F-102",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "Ponedeljek",
+    "Datum": "15.04.2024",
+    "Ura": "09:00-12:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MATJA\u017d DIVJAK"
+  },
+  {
+    "Dan": "Ponedeljek",
+    "Datum": "15.04.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2 RV 3",
+    "Izvajalec": "MATJA\u017d DIVJAK, LEON KUTO\u0160"
+  },
+  {
+    "Dan": "Ponedeljek",
+    "Datum": "15.04.2024",
+    "Ura": "17:00-20:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 3",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "Torek",
+    "Datum": "16.04.2024",
+    "Ura": "11:00-13:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2, RIT 3 UN",
+    "Izvajalec": "DAMJAN STRNAD"
+  },
+  {
+    "Dan": "Torek",
+    "Datum": "16.04.2024",
+    "Ura": "14:00-17:00",
+    "Prostor": "(RU) C-202",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "17.04.2024",
+    "Ura": "10:00-12:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "ALE\u0160 HOLOBAR"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "17.04.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MATJA\u017d DIVJAK"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "17.04.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "LEON KUTO\u0160"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "17.04.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "(RU) F-103\/a",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MLADEN BOROVI\u010c"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "17.04.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "(RU) F-103\/b",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 3, RIT 3 UN RV 1",
+    "Izvajalec": ". DEMONSTRATOR"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "18.04.2024",
+    "Ura": "07:00-10:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "18.04.2024",
+    "Ura": "10:00-13:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "18.04.2024",
+    "Ura": "13:00-15:00",
+    "Prostor": "G2-P01, pritli\u010dje",
+    "Opis": "PR SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "ALE\u0160 HOLOBAR"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "18.04.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 3",
+    "Izvajalec": "MATEJ KRAMBERGER"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "18.04.2024",
+    "Ura": "18:00-21:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "MATEJ KRAMBERGER"
+  },
+  {
+    "Dan": "Petek",
+    "Datum": "19.04.2024",
+    "Ura": "09:00-11:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "BORUT \u017dALIK"
+  },
+  {
+    "Dan": "Petek",
+    "Datum": "19.04.2024",
+    "Ura": "11:00-14:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 3",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "Petek",
+    "Datum": "19.04.2024",
+    "Ura": "14:00-17:00",
+    "Prostor": "G3-amfiteater Gauss, klet",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "MLADEN BOROVI\u010c"
+  },
+  {
+    "Dan": "Petek",
+    "Datum": "19.04.2024",
+    "Ura": "17:00-20:00",
+    "Prostor": "(RU) F-102",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "Ponedeljek",
+    "Datum": "22.04.2024",
+    "Ura": "09:00-12:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MATJA\u017d DIVJAK"
+  },
+  {
+    "Dan": "Ponedeljek",
+    "Datum": "22.04.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2 RV 3",
+    "Izvajalec": "MATJA\u017d DIVJAK, LEON KUTO\u0160"
+  },
+  {
+    "Dan": "Ponedeljek",
+    "Datum": "22.04.2024",
+    "Ura": "17:00-20:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 3",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "Torek",
+    "Datum": "23.04.2024",
+    "Ura": "11:00-13:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2, RIT 3 UN",
+    "Izvajalec": "DAMJAN STRNAD"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "24.04.2024",
+    "Ura": "10:00-12:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "ALE\u0160 HOLOBAR"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "24.04.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MATJA\u017d DIVJAK"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "24.04.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "LEON KUTO\u0160"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "24.04.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "(RU) F-103\/a",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MLADEN BOROVI\u010c"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "24.04.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "(RU) F-103\/b",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 3, RIT 3 UN RV 1",
+    "Izvajalec": ". DEMONSTRATOR"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "25.04.2024",
+    "Ura": "07:00-10:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "25.04.2024",
+    "Ura": "10:00-13:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "25.04.2024",
+    "Ura": "13:00-15:00",
+    "Prostor": "G2-P01, pritli\u010dje",
+    "Opis": "PR SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "ALE\u0160 HOLOBAR"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "25.04.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 3",
+    "Izvajalec": "MATEJ KRAMBERGER"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "25.04.2024",
+    "Ura": "18:00-21:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "MATEJ KRAMBERGER"
+  },
+  {
+    "Dan": "Petek",
+    "Datum": "26.04.2024",
+    "Ura": "09:00-11:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "BORUT \u017dALIK"
+  },
+  {
+    "Dan": "Petek",
+    "Datum": "26.04.2024",
+    "Ura": "14:00-17:00",
+    "Prostor": "G3-amfiteater Gauss, klet",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "MLADEN BOROVI\u010c"
+  },
+  {
+    "Dan": "Ponedeljek",
+    "Datum": "06.05.2024",
+    "Ura": "09:00-12:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MATJA\u017d DIVJAK"
+  },
+  {
+    "Dan": "Ponedeljek",
+    "Datum": "06.05.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2 RV 3",
+    "Izvajalec": "MATJA\u017d DIVJAK, LEON KUTO\u0160"
+  },
+  {
+    "Dan": "Ponedeljek",
+    "Datum": "06.05.2024",
+    "Ura": "17:00-20:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 3",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "Torek",
+    "Datum": "07.05.2024",
+    "Ura": "09:00-11:00",
+    "Prostor": "G3-amfiteater Gauss, klet",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MLADEN BOROVI\u010c"
+  },
+  {
+    "Dan": "Torek",
+    "Datum": "07.05.2024",
+    "Ura": "09:00-11:00",
+    "Prostor": "G3-amfiteater Gauss, klet",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 3, RIT 3 UN RV 1",
+    "Izvajalec": ". DEMONSTRATOR"
+  },
+  {
+    "Dan": "Torek",
+    "Datum": "07.05.2024",
+    "Ura": "11:00-13:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2, RIT 3 UN",
+    "Izvajalec": "DAMJAN STRNAD"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "08.05.2024",
+    "Ura": "10:00-12:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "ALE\u0160 HOLOBAR"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "08.05.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MATJA\u017d DIVJAK"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "08.05.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "LEON KUTO\u0160"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "08.05.2024",
+    "Ura": "15:00-16:00",
+    "Prostor": "(RU) F-103\/a",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MLADEN BOROVI\u010c"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "08.05.2024",
+    "Ura": "15:00-16:00",
+    "Prostor": "(RU) F-103\/b",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 3, RIT 3 UN RV 1",
+    "Izvajalec": ". DEMONSTRATOR"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "09.05.2024",
+    "Ura": "07:00-10:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "09.05.2024",
+    "Ura": "10:00-13:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "09.05.2024",
+    "Ura": "13:00-15:00",
+    "Prostor": "G2-P01, pritli\u010dje",
+    "Opis": "PR SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "ALE\u0160 HOLOBAR"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "09.05.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 3",
+    "Izvajalec": "MATEJ KRAMBERGER"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "09.05.2024",
+    "Ura": "18:00-21:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "MATEJ KRAMBERGER"
+  },
+  {
+    "Dan": "Petek",
+    "Datum": "10.05.2024",
+    "Ura": "09:00-11:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "BORUT \u017dALIK"
+  },
+  {
+    "Dan": "Petek",
+    "Datum": "10.05.2024",
+    "Ura": "14:00-17:00",
+    "Prostor": "G3-amfiteater Gauss, klet",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "MLADEN BOROVI\u010c"
+  },
+  {
+    "Dan": "Ponedeljek",
+    "Datum": "13.05.2024",
+    "Ura": "07:00-09:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2, RIT 3 UN",
+    "Izvajalec": "DAMJAN STRNAD"
+  },
+  {
+    "Dan": "Ponedeljek",
+    "Datum": "13.05.2024",
+    "Ura": "09:00-12:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MATJA\u017d DIVJAK"
+  },
+  {
+    "Dan": "Ponedeljek",
+    "Datum": "13.05.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2 RV 3",
+    "Izvajalec": "MATJA\u017d DIVJAK, LEON KUTO\u0160"
+  },
+  {
+    "Dan": "Ponedeljek",
+    "Datum": "13.05.2024",
+    "Ura": "17:00-20:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 3",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "15.05.2024",
+    "Ura": "10:00-12:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "ALE\u0160 HOLOBAR"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "15.05.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MATJA\u017d DIVJAK"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "15.05.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "LEON KUTO\u0160"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "15.05.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "(RU) F-103\/a",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MLADEN BOROVI\u010c"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "15.05.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "(RU) F-103\/b",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 3, RIT 3 UN RV 1",
+    "Izvajalec": ". DEMONSTRATOR"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "16.05.2024",
+    "Ura": "07:00-10:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "16.05.2024",
+    "Ura": "10:00-13:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "16.05.2024",
+    "Ura": "13:00-15:00",
+    "Prostor": "G2-P01, pritli\u010dje",
+    "Opis": "PR SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "ALE\u0160 HOLOBAR"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "16.05.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 3",
+    "Izvajalec": "MATEJ KRAMBERGER"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "16.05.2024",
+    "Ura": "18:00-21:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "MATEJ KRAMBERGER"
+  },
+  {
+    "Dan": "Petek",
+    "Datum": "17.05.2024",
+    "Ura": "09:00-11:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "BORUT \u017dALIK"
+  },
+  {
+    "Dan": "Petek",
+    "Datum": "17.05.2024",
+    "Ura": "17:00-20:00",
+    "Prostor": "(RU) F-103\/a",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "MLADEN BOROVI\u010c"
+  },
+  {
+    "Dan": "Ponedeljek",
+    "Datum": "20.05.2024",
+    "Ura": "09:00-12:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MATJA\u017d DIVJAK"
+  },
+  {
+    "Dan": "Ponedeljek",
+    "Datum": "20.05.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2 RV 3",
+    "Izvajalec": "MATJA\u017d DIVJAK, LEON KUTO\u0160"
+  },
+  {
+    "Dan": "Ponedeljek",
+    "Datum": "20.05.2024",
+    "Ura": "17:00-20:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 3",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "Torek",
+    "Datum": "21.05.2024",
+    "Ura": "11:00-13:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2, RIT 3 UN",
+    "Izvajalec": "DAMJAN STRNAD"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "22.05.2024",
+    "Ura": "10:00-12:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "ALE\u0160 HOLOBAR"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "22.05.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MATJA\u017d DIVJAK"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "22.05.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "LEON KUTO\u0160"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "22.05.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "(RU) F-103\/a",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MLADEN BOROVI\u010c"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "22.05.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "(RU) F-103\/b",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 3, RIT 3 UN RV 1",
+    "Izvajalec": ". DEMONSTRATOR"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "23.05.2024",
+    "Ura": "07:00-10:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "23.05.2024",
+    "Ura": "10:00-13:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "ALJA\u017d JEROMEL"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "23.05.2024",
+    "Ura": "13:00-15:00",
+    "Prostor": "G2-P01, pritli\u010dje",
+    "Opis": "PR SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "ALE\u0160 HOLOBAR"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "23.05.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 3",
+    "Izvajalec": "MATEJ KRAMBERGER"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "23.05.2024",
+    "Ura": "18:00-21:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "MATEJ KRAMBERGER"
+  },
+  {
+    "Dan": "Petek",
+    "Datum": "24.05.2024",
+    "Ura": "09:00-11:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "BORUT \u017dALIK"
+  },
+  {
+    "Dan": "Petek",
+    "Datum": "24.05.2024",
+    "Ura": "14:00-17:00",
+    "Prostor": "G3-amfiteater Gauss, klet",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "MLADEN BOROVI\u010c"
+  },
+  {
+    "Dan": "Ponedeljek",
+    "Datum": "27.05.2024",
+    "Ura": "09:00-12:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MATJA\u017d DIVJAK"
+  },
+  {
+    "Dan": "Ponedeljek",
+    "Datum": "27.05.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2 RV 3",
+    "Izvajalec": "MATJA\u017d DIVJAK, LEON KUTO\u0160"
+  },
+  {
+    "Dan": "Torek",
+    "Datum": "28.05.2024",
+    "Ura": "11:00-13:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2, RIT 3 UN",
+    "Izvajalec": "DAMJAN STRNAD"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "29.05.2024",
+    "Ura": "10:00-12:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "ALE\u0160 HOLOBAR"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "29.05.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MATJA\u017d DIVJAK"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "29.05.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "LEON KUTO\u0160"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "29.05.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "(RU) F-103\/a",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MLADEN BOROVI\u010c"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "29.05.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "(RU) F-103\/b",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 3, RIT 3 UN RV 1",
+    "Izvajalec": ". DEMONSTRATOR"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "30.05.2024",
+    "Ura": "13:00-15:00",
+    "Prostor": "G2-P01, pritli\u010dje",
+    "Opis": "PR SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "ALE\u0160 HOLOBAR"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "30.05.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 3",
+    "Izvajalec": "MATEJ KRAMBERGER"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "30.05.2024",
+    "Ura": "18:00-21:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "MATEJ KRAMBERGER"
+  },
+  {
+    "Dan": "Petek",
+    "Datum": "31.05.2024",
+    "Ura": "09:00-11:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "BORUT \u017dALIK"
+  },
+  {
+    "Dan": "Petek",
+    "Datum": "31.05.2024",
+    "Ura": "14:00-17:00",
+    "Prostor": "G3-amfiteater Gauss, klet",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "MLADEN BOROVI\u010c"
+  },
+  {
+    "Dan": "Ponedeljek",
+    "Datum": "03.06.2024",
+    "Ura": "09:00-12:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MATJA\u017d DIVJAK"
+  },
+  {
+    "Dan": "Ponedeljek",
+    "Datum": "03.06.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2 RV 3",
+    "Izvajalec": "MATJA\u017d DIVJAK, LEON KUTO\u0160"
+  },
+  {
+    "Dan": "Torek",
+    "Datum": "04.06.2024",
+    "Ura": "11:00-13:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2, RIT 3 UN",
+    "Izvajalec": "DAMJAN STRNAD"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "05.06.2024",
+    "Ura": "10:00-12:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "ALE\u0160 HOLOBAR"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "05.06.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MATJA\u017d DIVJAK"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "05.06.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "LEON KUTO\u0160"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "05.06.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "(RU) F-103\/a",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MLADEN BOROVI\u010c"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "05.06.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "(RU) F-103\/b",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 3, RIT 3 UN RV 1",
+    "Izvajalec": ". DEMONSTRATOR"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "06.06.2024",
+    "Ura": "13:00-15:00",
+    "Prostor": "G2-P01, pritli\u010dje",
+    "Opis": "PR SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "ALE\u0160 HOLOBAR"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "06.06.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 3",
+    "Izvajalec": "MATEJ KRAMBERGER"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "06.06.2024",
+    "Ura": "18:00-21:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "MATEJ KRAMBERGER"
+  },
+  {
+    "Dan": "Petek",
+    "Datum": "07.06.2024",
+    "Ura": "09:00-11:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "BORUT \u017dALIK"
+  },
+  {
+    "Dan": "Petek",
+    "Datum": "07.06.2024",
+    "Ura": "14:00-17:00",
+    "Prostor": "G3-amfiteater Gauss, klet",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "MLADEN BOROVI\u010c"
+  },
+  {
+    "Dan": "Ponedeljek",
+    "Datum": "10.06.2024",
+    "Ura": "09:00-12:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MATJA\u017d DIVJAK"
+  },
+  {
+    "Dan": "Ponedeljek",
+    "Datum": "10.06.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2 RV 3",
+    "Izvajalec": "MATJA\u017d DIVJAK, LEON KUTO\u0160"
+  },
+  {
+    "Dan": "Torek",
+    "Datum": "11.06.2024",
+    "Ura": "11:00-13:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2, RIT 3 UN",
+    "Izvajalec": "DAMJAN STRNAD"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "12.06.2024",
+    "Ura": "10:00-12:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "ALE\u0160 HOLOBAR"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "12.06.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MATJA\u017d DIVJAK"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "12.06.2024",
+    "Ura": "12:00-15:00",
+    "Prostor": "(RU) F-104",
+    "Opis": "RV SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "LEON KUTO\u0160"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "12.06.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "(RU) F-103\/a",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 1",
+    "Izvajalec": "MLADEN BOROVI\u010c"
+  },
+  {
+    "Dan": "Sreda",
+    "Datum": "12.06.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "(RU) F-103\/b",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 3, RIT 3 UN RV 1",
+    "Izvajalec": ". DEMONSTRATOR"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "13.06.2024",
+    "Ura": "13:00-15:00",
+    "Prostor": "G2-P01, pritli\u010dje",
+    "Opis": "PR SIGNALI IN SLIKE",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "ALE\u0160 HOLOBAR"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "13.06.2024",
+    "Ura": "15:00-18:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 3",
+    "Izvajalec": "MATEJ KRAMBERGER"
+  },
+  {
+    "Dan": "\u010cetrtek",
+    "Datum": "13.06.2024",
+    "Ura": "18:00-21:00",
+    "Prostor": "(RU) E-110",
+    "Opis": "RV SISTEMSKA PROGRAMSKA OPREMA",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "MATEJ KRAMBERGER"
+  },
+  {
+    "Dan": "Petek",
+    "Datum": "14.06.2024",
+    "Ura": "09:00-11:00",
+    "Prostor": "G2-P2 BETA, pritli\u010dje",
+    "Opis": "PR UVOD V RA\u010cUNALNI\u0160KO GEOMETRIJO",
+    "Skupina": "RIT 2 UN - UP2",
+    "Izvajalec": "BORUT \u017dALIK"
+  },
+  {
+    "Dan": "Petek",
+    "Datum": "14.06.2024",
+    "Ura": "14:00-17:00",
+    "Prostor": "G3-amfiteater Gauss, klet",
+    "Opis": "RV UMETNA INTELIGENCA",
+    "Skupina": "RIT 2 UN - UP2 RV 2",
+    "Izvajalec": "MLADEN BOROVI\u010c"
+  }
+]
