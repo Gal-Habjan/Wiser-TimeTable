@@ -4,14 +4,16 @@
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     Title="SettingsPage">
-    <VerticalStackLayout>
-        <Label
-            FontSize="Large"
-            HorizontalOptions="Center"
-            Text="Settings" />
+    <ScrollView>
+        <VerticalStackLayout>
+            <Label
+                FontSize="Large"
+                HorizontalOptions="Center"
+                Text="Settings" />
 
-        <!--  Settings Grid  -->
-        <Grid x:Name="SettingsGrid" ColumnDefinitions="*, Auto" />
-        <Button Clicked="OnCloseButtonClicked" Text="Close Settings" />
-    </VerticalStackLayout>
+            <!--  Settings Grid  -->
+            <Grid x:Name="SettingsGrid" ColumnDefinitions="*, Auto" />
+            <Button Clicked="OnCloseButtonClicked" Text="Close Settings" />
+        </VerticalStackLayout>
+    </ScrollView>
 </ContentPage>

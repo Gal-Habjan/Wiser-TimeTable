@@ -3,6 +3,7 @@ using System.Text.Json;
 using Microsoft.Maui.Controls;
 namespace TimeTable;
 using Microsoft.Maui.Storage;
+using Newtonsoft.Json;
 
 public partial class SettingsPage : ContentPage
 {
@@ -27,27 +28,42 @@ public partial class SettingsPage : ContentPage
     public async Task GetAllGroups() {
 
         string jsonData;
-        try
+        string appDataFilePath = Path.Combine(FileSystem.AppDataDirectory, "school.json");
+        List<ClassEntry> classes = new List<ClassEntry>();
+        // Read the local JSON file
+        if (File.Exists(appDataFilePath))
         {
-            using var stream = await FileSystem.OpenAppPackageFileAsync("school.json");
-            using var reader = new StreamReader(stream);
-            jsonData = await reader.ReadToEndAsync();
+            jsonData = await File.ReadAllTextAsync(appDataFilePath);
+
+
+            // Deserialize the JSON data to get the local hash
+
+            var responses = JsonConvert.DeserializeObject<List<FirebaseResponse>>(jsonData);
+
+            foreach (var response in responses)
+            {
+                if (response.Key == "Classes")
+                {
+                    var classesJson = JsonConvert.SerializeObject(response.Object);
+                    classes = JsonConvert.DeserializeObject<List<ClassEntry>>(classesJson);
+                }
+
+            }
+
         }
-        catch (Exception ex)
-        {
-            // Handle exceptions (e.g., file not found)
-            Trace.WriteLine($"Error loading JSON file: {ex.Message}");
-            return;
-        }
-        List<ClassEntry> classes = JsonSerializer.Deserialize<RootObject>(jsonData)?.Classes;
         differentGroups.Clear();
         foreach (var subject in classes) {
-            if (!differentGroups.Contains(subject.Skupina))
+            string key = subject.Opis + " " + subject.Skupina;
+            if (!differentGroups.Contains(key))
             {
-                differentGroups.Add(subject.Skupina);
+                
+                differentGroups.Add(key);
                 
             }
         }
+        
+        
+        
         Trace.WriteLine(differentGroups.Count);
     }
     private void PopulateSettingsGrid()

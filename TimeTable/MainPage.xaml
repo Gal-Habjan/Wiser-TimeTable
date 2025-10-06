@@ -42,7 +42,7 @@
                     x:Name="StepperLabel"
                     Grid.Column="1"
                     HorizontalOptions="CenterAndExpand"
-                    Text="Current Value: 0" />
+                    Text="0" />
             </Grid>
             <Button Clicked="OnSettingsClicked" Text="Settings" />
             <Button Clicked="OnRefreshButtonClicked" Text="Refresh Timetable" />
