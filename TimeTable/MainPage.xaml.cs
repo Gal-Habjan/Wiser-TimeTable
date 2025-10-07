@@ -198,7 +198,7 @@ namespace TimeTable
                 formattedString.Spans.Add(secondPart);
 
                 // Label color
-                var color = !Preferences.Get("ColorfulSchedule", true) ? Color.FromRgb(80, 80, 80) : classEntry.color;
+                var color = !Preferences.Get("ColorfulSchedule", true) ? Color.FromRgb(80, 80, 80) : classEntry.Color;
                 if (includeHidden && !classEntry.Vidno)
                 {
                     float h, s, l;

@@ -69,7 +69,53 @@ namespace TimeTable
             return Math.Pow((c + 0.055) / 1.055, 2.4);
         }
 
-        public Color color
+        public Color Color
+        {
+            get
+            {
+                Color color;
+                if (Preferences.ContainsKey("Color_" + Predmet))
+                {
+                    color = UserClassColor;
+                }
+                else
+                {
+                    color = DefaultColor;
+                }
+
+                float hue, sat, light;
+                color.ToHsl(out hue, out sat, out light);
+
+                // Non-lecture → lighter & less saturated
+                if (!JePredavanje)
+                {
+                    color = Color.FromHsla(hue, Math.Max(0, sat - 0.1), Math.Max(0.2, light - 0.05));
+                }
+                return color;
+            }
+            set {
+                UserClassColor = value;
+            }
+        }
+
+        private Color UserClassColor
+        {
+            get
+            {
+                return Color.FromArgb(Preferences.Get("Color_" + Predmet, DefaultColor.ToHex()));
+            }
+            set
+            {
+                Preferences.Set("Color_" + Predmet, value.ToHex());
+            }
+        }
+
+        public void ResetColor()
+        {
+            Preferences.Remove("Color_" + Predmet);
+        }
+
+        private Color DefaultColor
         {
             get
             {
@@ -101,12 +147,6 @@ namespace TimeTable
                     light = Math.Max(0.2, light - 0.045);
                     color = Color.FromHsla(hue, sat, light);
                     safety++;
-                }
-
-                // Non-lecture → lighter & less saturated
-                if (!JePredavanje)
-                {
-                    color = Color.FromHsla(hue, Math.Max(0, sat - 0.1), Math.Max(0.2, light - 0.05));
                 }
 
                 return color;

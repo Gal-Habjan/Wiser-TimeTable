@@ -32,6 +32,22 @@
 
             <Label FontAttributes="Bold" Text="Spremeni vidljivost" />
             <Switch IsToggled="{Binding CurrentClass.Vidno}" />
+
+            <Label FontAttributes="Bold" Text="Barva predmeta" />
+            <VerticalStackLayout>
+                <Label Text="Red" />
+                <Slider x:Name="R" Minimum="0" Maximum="255" ValueChanged="RGB_ValueChanged" />
+                <Label Text="Green" />
+                <Slider x:Name="G" Minimum="0" Maximum="255" ValueChanged="RGB_ValueChanged" />
+                <Label Text="Blue" />
+                <Slider x:Name="B" Minimum="0" Maximum="255" ValueChanged="RGB_ValueChanged" />
+
+                <HorizontalStackLayout Spacing="10">
+                    <BoxView x:Name="Preview" HeightRequest="50" WidthRequest="50"/>
+                    <Button Text="Ponastavi" Clicked="OnPonastaviClicked" />
+                </HorizontalStackLayout>
+                
+            </VerticalStackLayout>
         </VerticalStackLayout>
 
         <Button

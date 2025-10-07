@@ -64,7 +64,7 @@ public partial class SettingsPage : ContentPage
         differentGroups.Clear();
         foreach (var subject in classes) {
             string key = subject.Opis + " " + subject.Skupina;
-            var color = subject.color;
+            var color = subject.Color;
             if (!differentGroups.Contains((key, color)))
             {
                 
