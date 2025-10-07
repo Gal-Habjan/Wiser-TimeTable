@@ -21,6 +21,9 @@ namespace TimeTable
 #endif
             builder.Services.AddSingleton(new FirebaseClient("https://wiser-timetable-default-rtdb.europe-west1.firebasedatabase.app/"));
             builder.Services.AddSingleton<MainPage>();
+
+            if (!Preferences.ContainsKey("NotificationTime"))
+                Preferences.Set("NotificationTime", 15);
             return builder.Build();
         }
     }

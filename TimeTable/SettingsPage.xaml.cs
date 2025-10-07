@@ -20,6 +20,9 @@ public partial class SettingsPage : ContentPage
     {
         await GetAllGroups();          // Fetch all groups asynchronously
         PopulateSettingsGrid();  // Populate the grid after groups are fetched
+        int notificationTime = Preferences.Get("NotificationTime", 15);
+        NotificationTime.Text = notificationTime.ToString();
+
     }
     private async void OnCloseButtonClicked(object sender, EventArgs e)
     {
@@ -72,9 +75,9 @@ public partial class SettingsPage : ContentPage
                 
             }
         }
-        
-        
-        
+
+        differentGroups.Sort();
+
         Trace.WriteLine(differentGroups.Count);
     }
     private void PopulateSettingsGrid()
@@ -193,7 +196,26 @@ public partial class SettingsPage : ContentPage
         // Use Preferences to save the switch state
         Preferences.Set(key, state);
     }
+    private void OnNotificationTimeTextChanged(object sender, TextChangedEventArgs e)
+    {
+        var entry = (Entry)sender;
 
+        if (int.TryParse(e.NewTextValue, out int value))
+        {
+            if (value < 0 || value > 60)
+            {
+                entry.Text = e.OldTextValue;
+                return;
+            }
+
+            
+            Preferences.Set("NotificationTime", value);
+        }
+        else if (!string.IsNullOrEmpty(e.NewTextValue))
+        {
+            entry.Text = e.OldTextValue;
+        }
+    }
 
 
 }

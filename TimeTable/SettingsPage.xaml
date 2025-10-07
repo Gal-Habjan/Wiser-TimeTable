@@ -11,9 +11,23 @@
                     HorizontalOptions="Center"
                     Text="Settings" />
 
-                <!--  Settings Grid  -->
-                <Grid x:Name="SettingsGrid" ColumnDefinitions="*, Auto" />
-                <Button Clicked="OnCloseButtonClicked" Text="Close Settings" />
-            </VerticalStackLayout>
+
+            <!--  Settings Grid  -->
+            <HorizontalStackLayout
+                Padding="10"
+                Spacing="10"
+                VerticalOptions="Center">
+                <Label Text="Send Notification time in minutes" VerticalOptions="Center" />
+                <Entry
+                    x:Name="NotificationTime"
+                    Keyboard="Numeric"
+                    MaxLength="2"
+                    TextChanged="OnNotificationTimeTextChanged"
+                    WidthRequest="80" />
+            </HorizontalStackLayout>
+            <Grid x:Name="SettingsGrid" ColumnDefinitions="*, Auto" />
+            <Button Clicked="OnCloseButtonClicked" Text="Close Settings" />
+        </VerticalStackLayout>
+
     </ScrollView>
 </ContentPage>
