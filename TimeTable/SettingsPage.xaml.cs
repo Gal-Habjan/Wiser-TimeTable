@@ -91,7 +91,7 @@ public partial class SettingsPage : ContentPage
         };
         var colorSwitch = new Microsoft.Maui.Controls.Switch
         {
-            IsToggled = GetSwitchState("ColorfulSchedule"), // Get saved state
+            IsToggled = GetSwitchState("ColorfulSchedule", true), // Get saved state
             VerticalOptions = LayoutOptions.Center,
             HorizontalOptions = LayoutOptions.End
         };
@@ -181,10 +181,10 @@ public partial class SettingsPage : ContentPage
     }
 
    
-    private bool GetSwitchState(string key)
+    private bool GetSwitchState(string key, bool def = false)
     {
         
-        return Preferences.Get(key, false);
+        return Preferences.Get(key, def);
     }
 
 
