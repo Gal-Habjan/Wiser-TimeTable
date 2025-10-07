@@ -24,6 +24,10 @@
 
         <Label FontAttributes="Bold" Text="Time:" />
         <Label Text="{Binding CurrentClass.Ura}" />
+
+        <Label FontAttributes="Bold" Text="Spremeni vidljivost" />
+        <Switch IsToggled="{Binding CurrentClass.Vidno}" />
+
         <!--  Close button to return to the previous page  -->
         <Button Clicked="OnButtonClose" Text="Close" />
     </VerticalStackLayout>

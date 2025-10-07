@@ -137,6 +137,7 @@ namespace TimeTable
         { // Use System.Text.Json or Newtonsoft.Json
 
             string[] daysOfWeek = ["Ponedeljek", "Torek", "Sreda", "Četrtek", "Petek"];
+            var includeHidden = Preferences.Get("ShowHiddenClasses", false);
             await GetAvailableSubjects();
             foreach (var classEntry in availableClasses)
             {
@@ -198,6 +199,13 @@ namespace TimeTable
 
                 // Label color
                 var color = !Preferences.Get("ColorfulSchedule", true) ? Color.FromRgb(80, 80, 80) : classEntry.color;
+                if (includeHidden && !classEntry.Vidno)
+                {
+                    float h, s, l;
+                    color.ToHsl(out h, out s, out l);
+                    color = Color.FromHsla(h, s, l * 0.3);
+
+                }
 
                 //putting them together
                 // Create the label
@@ -382,7 +390,7 @@ namespace TimeTable
             int currentDayOfWeek = (int)currentDate.DayOfWeek;
             DateTime minDate = currentDate.AddDays(-currentDayOfWeek);
             DateTime maxDate = currentDayOfWeek == 6 ? currentDate.AddDays(7) : currentDate.AddDays(7 - currentDayOfWeek);
-
+            var includeHidden = Preferences.Get("ShowHiddenClasses", false);
             foreach (var classEntry in classes)
             {
                 //DateTime.TryParseExact(classEntry.Datum, "dd.MM.yyyy", CultureInfo.InvariantCulture,DateTimeStyles.None, out DateTime d1);
@@ -397,7 +405,7 @@ namespace TimeTable
                         Preferences.Set(key, true);
                         continue;
                     }
-                    if (Preferences.Get(key, false))
+                    if (includeHidden || Preferences.Get(key, false))
                     {
                         availableClasses.Add(classEntry);
                     }

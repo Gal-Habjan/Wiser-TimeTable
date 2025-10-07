@@ -29,6 +29,18 @@ namespace TimeTable
         public bool isFirst { get; set; }
         public bool hasOverlap { get; set; }
 
+        public bool Vidno
+        {
+            get
+            {
+                return Preferences.Get(Opis + " " + Skupina, true);
+            }
+            set
+            {
+                Preferences.Set(Opis + " " + Skupina, value);
+            }
+        }
+
         public bool JePredavanje => Opis.Split(' ').Any(t => t.Equals("PR"));
 
         public string Predmet => String.Join(' ', Opis.Split(' ').Where(t => !(new[] { "SV", "RV", "PR" }).Contains(t)));

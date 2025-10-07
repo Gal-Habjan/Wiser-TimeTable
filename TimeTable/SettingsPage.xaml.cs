@@ -70,6 +70,7 @@ public partial class SettingsPage : ContentPage
     {
         // Clear the grid first if you are repopulating
         SettingsGrid.Children.Clear();
+        int row = 0; // Row index in the grid
 
         var colorLabel = new Label
         {
@@ -77,7 +78,6 @@ public partial class SettingsPage : ContentPage
             VerticalOptions = LayoutOptions.Center,
             HorizontalOptions = LayoutOptions.Start
         };
-
         var colorSwitch = new Microsoft.Maui.Controls.Switch
         {
             IsToggled = GetSwitchState("ColorfulSchedule"), // Get saved state
@@ -91,15 +91,43 @@ public partial class SettingsPage : ContentPage
 
         SettingsGrid.RowDefinitions.Add(new RowDefinition { Height = GridLength.Auto });
         SettingsGrid.Children.Add(colorLabel);
-        Grid.SetRow(colorLabel, 0);
+        Grid.SetRow(colorLabel, row);
         Grid.SetColumn(colorLabel, 0);
 
         SettingsGrid.Children.Add(colorSwitch);
-        Grid.SetRow(colorSwitch, 0);
+        Grid.SetRow(colorSwitch, row);
         Grid.SetColumn(colorSwitch, 1);
+        row++;
 
+        var showHiddenLabel = new Label
+        {
+            Text = "Prikaži skrite predmete",
+            VerticalOptions = LayoutOptions.Center,
+            HorizontalOptions = LayoutOptions.Start
+        };
+        var showHiddenSwitch = new Microsoft.Maui.Controls.Switch
+        {
+            IsToggled = GetSwitchState("ShowHiddenClasses"), // Get saved state
+            VerticalOptions = LayoutOptions.Center,
+            HorizontalOptions = LayoutOptions.End
+        };
 
-        int row = 1; // Row index in the grid
+        showHiddenSwitch.Toggled += (sender, e) => {
+            SaveSwitchState("ShowHiddenClasses", e.Value);
+        };
+
+        SettingsGrid.RowDefinitions.Add(new RowDefinition { Height = GridLength.Auto });
+        SettingsGrid.Children.Add(showHiddenLabel);
+        Grid.SetRow(showHiddenLabel, row);
+        Grid.SetColumn(showHiddenLabel, 0);
+
+        SettingsGrid.Children.Add(showHiddenSwitch);
+        Grid.SetRow(showHiddenSwitch, row);
+        Grid.SetColumn(showHiddenSwitch, 1);
+        row++;
+
+        SettingsGrid.RowDefinitions.Add(new RowDefinition { Height = new GridLength(20) }); // Spacer row
+        row++;
 
         foreach (var groupName in differentGroups)
         {
