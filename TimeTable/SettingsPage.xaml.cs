@@ -7,7 +7,7 @@ using Newtonsoft.Json;
 
 public partial class SettingsPage : ContentPage
 {
-    List<string> differentGroups = new List<string>();
+    List<(string, Color)> differentGroups = new List<(string, Color)>();
     public SettingsPage()
 	{
 		InitializeComponent();
@@ -51,13 +51,24 @@ public partial class SettingsPage : ContentPage
             }
 
         }
+
+        if (classes == null) return;
+
+        classes.Sort((a, b) =>
+        {
+            var pDiff = string.Compare(a.Predmet, b.Predmet, StringComparison.Ordinal);
+            if (pDiff != 0) return pDiff;
+            return string.Compare(a.Skupina, b.Skupina, StringComparison.Ordinal);
+        });
+
         differentGroups.Clear();
         foreach (var subject in classes) {
             string key = subject.Opis + " " + subject.Skupina;
-            if (!differentGroups.Contains(key))
+            var color = subject.Color;
+            if (!differentGroups.Contains((key, color)))
             {
                 
-                differentGroups.Add(key);
+                differentGroups.Add((key, color));
                 
             }
         }
@@ -70,27 +81,85 @@ public partial class SettingsPage : ContentPage
     {
         // Clear the grid first if you are repopulating
         SettingsGrid.Children.Clear();
-
-
         int row = 0; // Row index in the grid
 
-        foreach (var groupName in differentGroups)
+        var colorLabel = new Label
+        {
+            Text = "Barvit urnik",
+            VerticalOptions = LayoutOptions.Center,
+            HorizontalOptions = LayoutOptions.Start
+        };
+        var colorSwitch = new Microsoft.Maui.Controls.Switch
+        {
+            IsToggled = GetSwitchState("ColorfulSchedule"), // Get saved state
+            VerticalOptions = LayoutOptions.Center,
+            HorizontalOptions = LayoutOptions.End
+        };
+
+        colorSwitch.Toggled += (sender, e) => {
+            SaveSwitchState("ColorfulSchedule", e.Value);
+        };
+
+        SettingsGrid.RowDefinitions.Add(new RowDefinition { Height = GridLength.Auto });
+        SettingsGrid.Children.Add(colorLabel);
+        Grid.SetRow(colorLabel, row);
+        Grid.SetColumn(colorLabel, 0);
+
+        SettingsGrid.Children.Add(colorSwitch);
+        Grid.SetRow(colorSwitch, row);
+        Grid.SetColumn(colorSwitch, 1);
+        row++;
+
+        var showHiddenLabel = new Label
+        {
+            Text = "Prikaži skrite predmete",
+            VerticalOptions = LayoutOptions.Center,
+            HorizontalOptions = LayoutOptions.Start
+        };
+        var showHiddenSwitch = new Microsoft.Maui.Controls.Switch
+        {
+            IsToggled = GetSwitchState("ShowHiddenClasses"), // Get saved state
+            VerticalOptions = LayoutOptions.Center,
+            HorizontalOptions = LayoutOptions.End
+        };
+
+        showHiddenSwitch.Toggled += (sender, e) => {
+            SaveSwitchState("ShowHiddenClasses", e.Value);
+        };
+
+        SettingsGrid.RowDefinitions.Add(new RowDefinition { Height = GridLength.Auto });
+        SettingsGrid.Children.Add(showHiddenLabel);
+        Grid.SetRow(showHiddenLabel, row);
+        Grid.SetColumn(showHiddenLabel, 0);
+
+        SettingsGrid.Children.Add(showHiddenSwitch);
+        Grid.SetRow(showHiddenSwitch, row);
+        Grid.SetColumn(showHiddenSwitch, 1);
+        row++;
+
+        SettingsGrid.RowDefinitions.Add(new RowDefinition { Height = new GridLength(20) }); // Spacer row
+        row++;
+
+        foreach (var (groupName, color) in differentGroups)
         {
             SettingsGrid.RowDefinitions.Add(new RowDefinition { Height = GridLength.Auto });
             // Create the label for the group
-            var groupLabel = new Label
+            var groupStack = new HorizontalStackLayout{Spacing = 3};
+            groupStack.Add(new BoxView { WidthRequest = 10, BackgroundColor = color }); // Indentation
+            groupStack.Add(new Label
             {
                 Text = groupName,
                 VerticalOptions = LayoutOptions.Center,
-                HorizontalOptions = LayoutOptions.Start
-            };
+                HorizontalOptions = LayoutOptions.Start,
+            });
 
             // Create the switch for the group
             var groupSwitch = new Microsoft.Maui.Controls.Switch
             {
                 IsToggled = GetSwitchState(groupName), // Get saved state
                 VerticalOptions = LayoutOptions.Center,
-                HorizontalOptions = LayoutOptions.End
+                HorizontalOptions = LayoutOptions.End,
+                
             };
 
             // Handle the switch toggle event
@@ -99,14 +168,14 @@ public partial class SettingsPage : ContentPage
             };
 
             // Add label and switch to the grid
-            SettingsGrid.Children.Add(groupLabel); // First, add the label
-            Grid.SetRow(groupLabel, row); // Set the row position
-            Grid.SetColumn(groupLabel, 0); // Set the column position (0 for label)
-
+            SettingsGrid.Children.Add(groupStack); // First, add the label
+            Grid.SetRow(groupStack, row); // Set the row position
+            Grid.SetColumn(groupStack, 0); // Set the column position (0 for label)
+            
             SettingsGrid.Children.Add(groupSwitch); // Then, add the switch
             Grid.SetRow(groupSwitch, row); // Set the row position
             Grid.SetColumn(groupSwitch, 1); // Set the column position (1 for switch)
-
+            
             row++; // Move to the next row
         }
     }

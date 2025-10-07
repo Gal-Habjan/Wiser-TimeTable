@@ -5,15 +5,15 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     Title="SettingsPage">
     <ScrollView>
-        <VerticalStackLayout>
-            <Label
-                FontSize="Large"
-                HorizontalOptions="Center"
-                Text="Settings" />
+            <VerticalStackLayout Padding="10" Spacing="10">
+                <Label
+                    FontSize="Large"
+                    HorizontalOptions="Center"
+                    Text="Settings" />
 
-            <!--  Settings Grid  -->
-            <Grid x:Name="SettingsGrid" ColumnDefinitions="*, Auto" />
-            <Button Clicked="OnCloseButtonClicked" Text="Close Settings" />
-        </VerticalStackLayout>
+                <!--  Settings Grid  -->
+                <Grid x:Name="SettingsGrid" ColumnDefinitions="*, Auto" />
+                <Button Clicked="OnCloseButtonClicked" Text="Close Settings" />
+            </VerticalStackLayout>
     </ScrollView>
 </ContentPage>
