@@ -71,8 +71,35 @@ public partial class SettingsPage : ContentPage
         // Clear the grid first if you are repopulating
         SettingsGrid.Children.Clear();
 
+        var colorLabel = new Label
+        {
+            Text = "Barvit urnik",
+            VerticalOptions = LayoutOptions.Center,
+            HorizontalOptions = LayoutOptions.Start
+        };
 
-        int row = 0; // Row index in the grid
+        var colorSwitch = new Microsoft.Maui.Controls.Switch
+        {
+            IsToggled = GetSwitchState("ColorfulSchedule"), // Get saved state
+            VerticalOptions = LayoutOptions.Center,
+            HorizontalOptions = LayoutOptions.End
+        };
+
+        colorSwitch.Toggled += (sender, e) => {
+            SaveSwitchState("ColorfulSchedule", e.Value);
+        };
+
+        SettingsGrid.RowDefinitions.Add(new RowDefinition { Height = GridLength.Auto });
+        SettingsGrid.Children.Add(colorLabel);
+        Grid.SetRow(colorLabel, 0);
+        Grid.SetColumn(colorLabel, 0);
+
+        SettingsGrid.Children.Add(colorSwitch);
+        Grid.SetRow(colorSwitch, 0);
+        Grid.SetColumn(colorSwitch, 1);
+
+
+        int row = 1; // Row index in the grid
 
         foreach (var groupName in differentGroups)
         {

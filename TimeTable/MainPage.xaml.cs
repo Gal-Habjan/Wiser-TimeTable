@@ -195,6 +195,10 @@ namespace TimeTable
                 formattedString.Spans.Add(firstPart);
                 formattedString.Spans.Add(groupPart);
                 formattedString.Spans.Add(secondPart);
+
+                // Label color
+                var color = !Preferences.Get("ColorfulSchedule", true) ? Color.FromRgb(80, 80, 80) : classEntry.color;
+
                 //putting them together
                 // Create the label
                 var classLabel = new Label
@@ -202,7 +206,7 @@ namespace TimeTable
                     FormattedText = formattedString,
                     VerticalOptions = LayoutOptions.Fill,
                     HorizontalOptions = LayoutOptions.Fill,
-                    BackgroundColor = Color.FromRgb(80, 80, 80), // Background color
+                    BackgroundColor = color,
                     Margin = new Thickness(1)
                 };
                 classLabel.GestureRecognizers.Add(new TapGestureRecognizer
