@@ -3,32 +3,44 @@
     x:Class="TimeTable.ClassDetailPage"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    Title="ClassDetailPage">
+    Title="Class Details">
 
-    <VerticalStackLayout>
+    <Grid
+        RowDefinitions="*,Auto"
+        Padding="30"
+        RowSpacing="20">
 
+        <VerticalStackLayout Grid.Row="0">
+            <Label Text="{Binding CurrentClass.Opis}" />
 
-        <Label Text="{Binding CurrentClass.Opis}" />
+            <Label FontAttributes="Bold" Text="Room:" />
+            <Label Text="{Binding CurrentClass.Prostor}" />
 
-        <Label FontAttributes="Bold" Text="Room:" />
-        <Label Text="{Binding CurrentClass.Prostor}" />
+            <Label FontAttributes="Bold" Text="Instructor:" />
+            <Label Text="{Binding CurrentClass.Izvajalec}" />
 
-        <Label FontAttributes="Bold" Text="Instructor:" />
-        <Label Text="{Binding CurrentClass.Izvajalec}" />
+            <Label FontAttributes="Bold" Text="Day:" />
+            <Label Text="{Binding CurrentClass.Dan}" />
 
-        <Label FontAttributes="Bold" Text="Day:" />
-        <Label Text="{Binding CurrentClass.Dan}" />
+            <Label FontAttributes="Bold" Text="Date:" />
+            <Label Text="{Binding CurrentClass.Datum}" />
 
-        <Label FontAttributes="Bold" Text="Date:" />
-        <Label Text="{Binding CurrentClass.Datum}" />
+            <Label FontAttributes="Bold" Text="Time:" />
+            <Label Text="{Binding CurrentClass.Ura}" />
 
-        <Label FontAttributes="Bold" Text="Time:" />
-        <Label Text="{Binding CurrentClass.Ura}" />
+            <ContentView Padding="0, 10" />
 
-        <Label FontAttributes="Bold" Text="Spremeni vidljivost" />
-        <Switch IsToggled="{Binding CurrentClass.Vidno}" />
+            <Label FontAttributes="Bold" Text="Spremeni vidljivost" />
+            <Switch IsToggled="{Binding CurrentClass.Vidno}" />
+        </VerticalStackLayout>
 
-        <!--  Close button to return to the previous page  -->
-        <Button Clicked="OnButtonClose" Text="Close" />
-    </VerticalStackLayout>
+        <Button
+            Grid.Row="1"
+            Text="Close"
+            Clicked="OnButtonClose"
+            VerticalOptions="End"
+            HorizontalOptions="Fill"
+            BackgroundColor="{DynamicResource Primary}"
+            TextColor="White" />
+    </Grid>
 </ContentPage>
